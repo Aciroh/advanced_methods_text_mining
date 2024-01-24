@@ -1,45 +1,60 @@
-ADJECTIVE
-Accuracy: 0.846031746031746
-Precision: 0
-Recall: 0.0
-Specificity: 1.0
+
 NOUN
-Accuracy: 0.35714285714285715
-Precision: 0.35714285714285715
+Accuracy: 0.4155495978552279
+Precision: 0.4155495978552279
 Recall: 1.0
 Specificity: 0.0
-PRONOUN
-Accuracy: 0.9936507936507937
+
+ADJECTIVE
+Accuracy: 0.8431635388739946
 Precision: 0
 Recall: 0.0
 Specificity: 1.0
-VERB
-Accuracy: 0.753968253968254
-Precision: 0
-Recall: 0.0
-Specificity: 1.0
-PREPOSITION
-Accuracy: 0.9619047619047619
-Precision: 0
-Recall: 0.0
-Specificity: 1.0
-DETERMINER
-Accuracy: 0.9634920634920635
-Precision: 0
-Recall: 0.0
-Specificity: 1.0
+
 MODAL_AUXILIARY
-Accuracy: 0.9873015873015873
+Accuracy: 0.9906166219839142
 Precision: 0
 Recall: 0.0
 Specificity: 1.0
-OTHER
-Accuracy: 0.9825396825396825
+
+VERB
+Accuracy: 0.7627345844504021
 Precision: 0
 Recall: 0.0
 Specificity: 1.0
+
 CONJUNCTION
-Accuracy: 0.9444444444444444
+Accuracy: 0.9758713136729222
+Precision: 0
+Recall: 0.0
+Specificity: 1.0
+
+OTHER
+Accuracy: 0.9798927613941019
+Precision: 0
+Recall: 0.0
+Specificity: 1.0
+
+DETERMINER
+Accuracy: 0.9731903485254692
+Precision: 0
+Recall: 0.0
+Specificity: 1.0
+
+PRONOUN
+Accuracy: 0.982573726541555
+Precision: 0
+Recall: 0.0
+Specificity: 1.0
+
+PREPOSITION
+Accuracy: 0.967828418230563
+Precision: 0
+Recall: 0.0
+Specificity: 1.0
+
+NUMBER
+Accuracy: 0.9959785522788204
 Precision: 0
 Recall: 0.0
 Specificity: 1.0
