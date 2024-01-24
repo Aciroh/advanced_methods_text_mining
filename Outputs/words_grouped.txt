@@ -1,0 +1,14146 @@
+
+fall
+NOUN / 1
+VERB / 1
+
+of
+PREPOSITION / 1
+
+rome
+NOUN / 1
+
+,
+OTHER / 1
+
+discovery
+NOUN / 1
+
+precious
+ADJECTIVE / 1
+
+metals
+NOUN / 1
+
+and
+CONJUNCTION / 1
+
+were
+VERB / 1
+
+all
+OTHER / 1
+
+links
+NOUN / 1
+
+be
+VERB / 1
+
+explained
+VERB / 1
+
+understood
+VERB / 1
+
+by
+PREPOSITION / 1
+
+comprehending
+VERB / 1
+
+that
+PRONOUN / 1
+CONJUNCTION / 1
+DETERMINER / 1
+
+preceded
+VERB / 1
+
+those
+DETERMINER / 1
+
+followed
+VERB / 1
+
+.
+OTHER / 1
+
+historian
+NOUN / 1
+
+consider
+VERB / 1
+
+use
+NOUN / 1
+VERB / 1
+
+intuition
+NOUN / 1
+
+or
+CONJUNCTION / 1
+
+instinct
+NOUN / 1
+
+individuals
+NOUN / 1
+
+nations
+NOUN / 1
+
+which
+DETERMINER / 1
+
+he
+PRONOUN / 1
+
+is
+VERB / 1
+
+studying
+VERB / 1
+
+governments
+NOUN / 1
+
+races
+NOUN / 1
+
+institutions
+NOUN / 1
+
+enter
+VERB / 1
+
+into
+PREPOSITION / 1
+
+some
+DETERMINER / 1
+
+undertaking
+NOUN / 1
+
+without
+PREPOSITION / 1
+
+realizing
+VERB / 1
+
+they
+PRONOUN / 1
+
+are
+VERB / 1
+
+doing
+VERB / 1
+
+react
+VERB / 1
+
+in
+PREPOSITION / 1
+
+obedience
+NOUN / 1
+
+to
+PREPOSITION / 1
+OTHER / 1
+
+urge
+NOUN / 1
+
+has
+VERB / 1
+
+itself
+PRONOUN / 1
+
+been
+VERB / 1
+
+impelled
+VERB / 1
+
+natural
+ADJECTIVE / 1
+
+law
+NOUN / 1
+
+court
+NOUN / 1
+
+strike
+VERB / 1
+NOUN / 1
+
+on
+PREPOSITION / 1
+
+basis
+NOUN / 1
+
+intuitive
+ADJECTIVE / 1
+
+feeling
+NOUN / 1
+
+inimical
+ADJECTIVE / 1
+
+numerical
+ADJECTIVE / 1
+
+majority
+NOUN / 1
+
+nation
+NOUN / 1
+
+go
+VERB / 1
+
+war
+NOUN / 1
+
+trifling
+VERB / 1
+
+pretext
+NOUN / 1
+
+reality
+NOUN / 1
+
+it
+PRONOUN / 1
+
+have
+VERB / 1
+
+guided
+VERB / 1
+
+unconscious
+ADJECTIVE / 1
+
+very
+DETERMINER / 1
+
+life
+NOUN / 1
+
+was
+VERB / 1
+
+at
+PREPOSITION / 1
+
+stake
+NOUN / 1
+
+encounters
+VERB / 1
+
+situation
+NOUN / 1
+
+perceive
+VERB / 1
+
+visible
+ADJECTIVE / 1
+
+cause
+NOUN / 1
+VERB / 1
+
+effect
+NOUN / 1
+
+sequence
+NOUN / 1
+
+alert
+ADJECTIVE / 1
+
+as
+CONJUNCTION / 1
+PREPOSITION / 1
+
+possible
+ADJECTIVE / 1
+
+guides
+NOUN / 1
+
+adams
+NOUN / 1
+
+contended
+VERB / 1
+
+underrate
+VERB / 1
+
+impact
+NOUN / 1
+
+geographical
+ADJECTIVE / 1
+
+environment
+NOUN / 1
+
+history
+NOUN / 1
+
+another
+DETERMINER / 1
+
+indispensable
+ADJECTIVE / 1
+
+tool
+NOUN / 1
+
+concluded
+VERB / 1
+
+``
+OTHER / 1
+
+conditions
+NOUN / 1
+
+exercised
+VERB / 1
+
+great
+ADJECTIVE / 1
+
+preponderating
+VERB / 1
+
+influence
+NOUN / 1
+
+over
+PREPOSITION / 1
+
+man's
+NOUN / 1
+
+destiny
+NOUN / 1
+
+''
+OTHER / 1
+
+failure
+NOUN / 1
+
+greece
+NOUN / 1
+
+reach
+VERB / 1
+
+imperial
+ADJECTIVE / 1
+
+periclean
+ADJECTIVE / 1
+
+athens
+NOUN / 1
+
+had
+VERB / 1
+
+seemed
+VERB / 1
+
+promise
+VERB / 1
+
+attributable
+ADJECTIVE / 1
+
+physical
+ADJECTIVE / 1
+
+conformation
+NOUN / 1
+
+areas
+NOUN / 1
+
+either
+CONJUNCTION / 1
+
+affected
+VERB / 1
+
+respectable
+ADJECTIVE / 1
+
+pursue
+VERB / 1
+
+study
+NOUN / 1
+
+thorough
+ADJECTIVE / 1
+
+knowledge
+NOUN / 1
+
+geography
+NOUN / 1
+
+brooks
+NOUN / 1
+
+consistent
+ADJECTIVE / 1
+
+admonishments
+NOUN / 1
+
+historians
+NOUN / 1
+
+about
+PREPOSITION / 1
+
+necessary
+ADJECTIVE / 1
+
+tools
+NOUN / 1
+
+insights
+NOUN / 1
+
+needed
+VERB / 1
+
+possess
+VERB / 1
+
+practicing
+VERB / 1
+
+himself
+PRONOUN / 1
+
+left
+VERB / 1
+
+few
+DETERMINER / 1
+
+clues
+NOUN / 1
+
+amount
+NOUN / 1
+
+professional
+ADJECTIVE / 1
+
+scholarship
+NOUN / 1
+
+used
+VERB / 1
+
+writing
+VERB / 1
+NOUN / 1
+
+fact
+NOUN / 1
+
+if
+CONJUNCTION / 1
+
+judgments
+NOUN / 1
+
+rendered
+VERB / 1
+
+upon
+PREPOSITION / 1
+
+soundness
+NOUN / 1
+
+historicism
+NOUN / 1
+
+based
+VERB / 1
+
+scanty
+ADJECTIVE / 1
+
+evidence
+NOUN / 1
+
+what
+DETERMINER / 1
+
+available
+ADJECTIVE / 1
+
+seem
+VERB / 1
+
+indicate
+VERB / 1
+
+unlike
+PREPOSITION / 1
+
+older
+ADJECTIVE / 1
+
+brother
+NOUN / 1
+
+henry
+NOUN / 1
+
+most
+DETERMINER / 1
+
+methodological
+ADJECTIVE / 1
+
+vices
+NOUN / 1
+
+found
+VERB / 1
+
+amateur
+NOUN / 1
+ADJECTIVE / 1
+
+credulousness
+NOUN / 1
+
+distaste
+NOUN / 1
+
+for
+PREPOSITION / 1
+CONJUNCTION / 1
+
+documentation
+NOUN / 1
+
+uncritical
+ADJECTIVE / 1
+
+reliance
+NOUN / 1
+
+contemporary
+ADJECTIVE / 1
+
+accounts
+NOUN / 1
+
+proneness
+NOUN / 1
+
+assume
+VERB / 1
+
+theory
+NOUN / 1
+
+true
+ADJECTIVE / 1
+
+before
+CONJUNCTION / 1
+PREPOSITION / 1
+
+adequate
+ADJECTIVE / 1
+
+proof
+NOUN / 1
+
+provided
+VERB / 1
+
+evidences
+NOUN / 1
+
+comprehend
+VERB / 1
+
+scientific
+ADJECTIVE / 1
+
+method
+NOUN / 1
+
+evaluate
+VERB / 1
+
+responsibilities
+NOUN / 1
+
+reading
+VERB / 1
+
+public
+NOUN / 1
+ADJECTIVE / 1
+
+this
+DETERMINER / 1
+
+not
+OTHER / 1
+
+work
+NOUN / 1
+VERB / 1
+
+merit
+NOUN / 1
+
+but
+CONJUNCTION / 1
+PREPOSITION / 1
+
+validity
+NOUN / 1
+
+assumptions
+NOUN / 1
+
+concerning
+PREPOSITION / 1
+
+meaning
+NOUN / 1
+
+considered
+VERB / 1
+
+against
+PREPOSITION / 1
+
+background
+NOUN / 1
+
+unprofessional
+ADJECTIVE / 1
+
+approach
+NOUN / 1
+
+credulity
+NOUN / 1
+
+illustrated
+VERB / 1
+
+introduction
+NOUN / 1
+
+purports
+VERB / 1
+
+examine
+VERB / 1
+
+trials
+NOUN / 1
+
+moses
+NOUN / 1
+
+draw
+VERB / 1
+
+parallel
+NOUN / 1
+
+between
+PREPOSITION / 1
+
+leader
+NOUN / 1
+
+israelite
+NOUN / 1
+
+exodus
+NOUN / 1
+
+from
+PREPOSITION / 1
+
+egypt
+NOUN / 1
+
+leadership
+NOUN / 1
+
+clergy
+NOUN / 1
+
+colonial
+ADJECTIVE / 1
+
+much
+DETERMINER / 1
+
+criticism
+NOUN / 1
+
+leveled
+VERB / 1
+
+forced
+VERB / 1
+
+analogy
+NOUN / 1
+
+significant
+ADJECTIVE / 1
+
+adams'
+NOUN / 1
+
+complete
+ADJECTIVE / 1
+
+acceptance
+NOUN / 1
+
+biblical
+ADJECTIVE / 1
+
+record
+NOUN / 1
+
+good
+ADJECTIVE / 1
+
+trustworthy
+ADJECTIVE / 1
+
+light
+NOUN / 1
+ADJECTIVE / 1
+
+scholarly
+ADJECTIVE / 1
+
+reappraisals
+NOUN / 1
+
+engendered
+VERB / 1
+
+higher
+ADJECTIVE / 1
+
+remarkable
+ADJECTIVE / 1
+
+statement
+NOUN / 1
+
+coming
+VERB / 1
+
+one
+PRONOUN / 1
+CONJUNCTION / 1
+
+who
+PRONOUN / 1
+
+known
+VERB / 1
+
+antifundamentalist
+NOUN / 1
+
+views
+NOUN / 1
+
+desire
+NOUN / 1
+
+substantiate
+VERB / 1
+
+thesis
+NOUN / 1
+
+expense
+NOUN / 1
+
+sound
+ADJECTIVE / 1
+NOUN / 1
+
+research
+NOUN / 1
+
+technique
+NOUN / 1
+
+smacks
+VERB / 1
+
+more
+DETERMINER / 1
+
+propagandist
+NOUN / 1
+
+than
+CONJUNCTION / 1
+PREPOSITION / 1
+
+similar
+ADJECTIVE / 1
+
+amateurish
+ADJECTIVE / 1
+
+characteristic
+NOUN / 1
+
+revealed
+VERB / 1
+
+check
+VERB / 1
+
+accuracy
+NOUN / 1
+
+authenticity
+NOUN / 1
+
+informational
+ADJECTIVE / 1
+
+sources
+NOUN / 1
+
+data
+NOUN / 1
+
+fitted
+VERB / 1
+
+general
+ADJECTIVE / 1
+
+plan
+NOUN / 1
+
+counted
+VERB / 1
+
+statistics
+NOUN / 1
+
+uncovered
+VERB / 1
+
+contradicted
+VERB / 1
+
+cherished
+VERB / 1
+
+denounced
+VERB / 1
+
+faulty
+ADJECTIVE / 1
+
+such
+ADJECTIVE / 1
+
+manipulations
+NOUN / 1
+
+encountered
+VERB / 1
+
+essay
+NOUN / 1
+
+suppression
+NOUN / 1
+
+monasteries
+NOUN / 1
+
+during
+PREPOSITION / 1
+
+english
+ADJECTIVE / 1
+NOUN / 1
+
+reformation
+NOUN / 1
+
+depended
+VERB / 1
+
+dispatches
+NOUN / 1
+
+foreign
+ADJECTIVE / 1
+
+ambassadors
+NOUN / 1
+
+observers
+NOUN / 1
+
+england
+NOUN / 1
+
+claiming
+VERB / 1
+
+reports
+NOUN / 1
+
+agents
+NOUN / 1
+
+accurate
+ADJECTIVE / 1
+
+because
+CONJUNCTION / 1
+
+there
+OTHER / 1
+
+newspapers
+NOUN / 1
+
+irrational
+ADJECTIVE / 1
+
+dogmatism
+NOUN / 1
+
+modern
+ADJECTIVE / 1
+
+mind
+NOUN / 1
+
+attempts
+VERB / 1
+NOUN / 1
+
+understand
+VERB / 1
+
+spirit
+NOUN / 1
+
+sixteenth
+NUMBER / 1
+
+century
+NOUN / 1
+
+twentieth-century
+NOUN / 1
+
+terms
+NOUN / 1
+
+rejects
+VERB / 1
+
+englishmen
+NOUN / 1
+
+adjudging
+VERB / 1
+
+them
+PRONOUN / 1
+DETERMINER / 1
+
+distorted
+VERB / 1
+
+prejudice
+NOUN / 1
+VERB / 1
+
+opinions
+NOUN / 1
+
+value
+NOUN / 1
+
+exposited
+VERB / 1
+
+observation
+NOUN / 1
+
+inherent
+ADJECTIVE / 1
+
+prejudices
+NOUN / 1
+
+anglophobia
+NOUN / 1
+
+fairness
+NOUN / 1
+
+admitted
+VERB / 1
+
+made
+VERB / 1
+
+pretense
+NOUN / 1
+
+being
+VERB / 1
+
+impartial
+ADJECTIVE / 1
+
+impartiality
+NOUN / 1
+
+him
+PRONOUN / 1
+
+meant
+VERB / 1
+
+unwillingness
+NOUN / 1
+
+generalize
+VERB / 1
+
+search
+VERB / 1
+NOUN / 1
+
+synthesis
+NOUN / 1
+
+deplored
+VERB / 1
+
+german
+ADJECTIVE / 1
+
+historiography
+NOUN / 1
+
+terming
+VERB / 1
+
+dismal
+ADJECTIVE / 1
+
+monster
+NOUN / 1
+
+ranke
+NOUN / 1
+
+disciples
+NOUN / 1
+
+reduced
+VERB / 1
+
+profession
+NOUN / 1
+
+dullness
+NOUN / 1
+
+;
+OTHER / 1
+
+preferred
+VERB / 1
+
+chronicles
+NOUN / 1
+
+froissart
+NOUN / 1
+
+style
+NOUN / 1
+
+theorizing
+NOUN / 1
+
+edward
+NOUN / 1
+
+gibbon
+NOUN / 1
+
+least
+DETERMINER / 1
+
+took
+VERB / 1
+
+stand
+NOUN / 1
+VERB / 1
+
+issues
+NOUN / 1
+
+wrote
+VERB / 1
+
+william
+NOUN / 1
+
+james
+NOUN / 1
+
+impossible
+ADJECTIVE / 1
+
+undesirable
+ADJECTIVE / 1
+
+convinced
+VERB / 1
+
+own
+ADJECTIVE / 1
+
+correctness
+NOUN / 1
+
+allow
+VERB / 1
+
+vision
+NOUN / 1
+
+become
+VERB / 1
+
+fogged
+VERB / 1
+
+disturbing
+ADJECTIVE / 1
+
+facts
+NOUN / 1
+
+error
+NOUN / 1
+
+basic
+ADJECTIVE / 1
+
+trait
+NOUN / 1
+
+separated
+VERB / 1
+
+ranks
+NOUN / 1
+
+led
+VERB / 1
+
+commit
+VERB / 1
+
+time
+NOUN / 1
+
+serious
+ADJECTIVE / 1
+
+offense
+NOUN / 1
+
+historical
+ADJECTIVE / 1
+
+--
+OTHER / 1
+
+tendency
+NOUN / 1
+
+truth
+NOUN / 1
+
+hypothesis
+NOUN / 1
+
+submitting
+VERB / 1
+
+test
+NOUN / 1
+
+reflects
+VERB / 1
+
+dogmatic
+ADJECTIVE / 1
+
+page
+NOUN / 1
+
+seems
+VERB / 1
+
+unproved
+ADJECTIVE / 1
+
+generalization
+NOUN / 1
+
+example
+NOUN / 1
+
+assertion
+NOUN / 1
+
+servile
+ADJECTIVE / 1
+
+revolts
+NOUN / 1
+
+dealt
+VERB / 1
+
+with
+PREPOSITION / 1
+
+force
+NOUN / 1
+
+explanation
+NOUN / 1
+
+nor
+CONJUNCTION / 1
+
+qualification
+NOUN / 1
+
+bald
+ADJECTIVE / 1
+
+undefined
+ADJECTIVE / 1
+
+compulsion
+NOUN / 1
+
+repelled
+VERB / 1
+
+matters
+NOUN / 1
+
+race
+NOUN / 1
+
+inflexible
+ADJECTIVE / 1
+
+:
+OTHER / 1
+
+latin
+ADJECTIVE / 1
+
+inherited
+VERB / 1
+
+rigidity
+NOUN / 1
+
+roman
+ADJECTIVE / 1
+
+cites
+VERB / 1
+
+typifying
+VERB / 1
+
+makes
+VERB / 1
+
+mention
+NOUN / 1
+
+italians
+NOUN / 1
+
+able
+ADJECTIVE / 1
+
+adapt
+VERB / 1
+
+types
+NOUN / 1
+
+circumstances
+NOUN / 1
+
+pontificates
+VERB / 1
+
+first
+NUMBER / 1
+
+signs
+NOUN / 1
+
+advancing
+VERB / 1
+
+civilization
+NOUN / 1
+
+women
+NOUN / 1
+
+men's
+NOUN / 1
+
+eyes
+NOUN / 1
+
+difference
+NOUN / 1
+
+points
+VERB / 1
+
+opposite
+ADJECTIVE / 1
+
+conclusion
+NOUN / 1
+
+critics
+NOUN / 1
+
+methods
+NOUN / 1
+
+observed
+VERB / 1
+
+particular
+ADJECTIVE / 1
+DETERMINER / 1
+
+deficiency
+NOUN / 1
+
+j.
+NOUN / 1
+
+t.
+NOUN / 1
+
+shotwell
+NOUN / 1
+
+appalled
+VERB / 1
+
+spurious
+ADJECTIVE / 1
+
+attributed
+VERB / 1
+
+carolingian
+ADJECTIVE / 1
+
+empire
+NOUN / 1
+
+woolen
+NOUN / 1
+
+trade
+NOUN / 1
+
+urged
+VERB / 1
+
+transform
+VERB / 1
+
+real
+ADJECTIVE / 1
+
+embodying
+VERB / 1
+
+fit
+VERB / 1
+
+modifications
+NOUN / 1
+
+exceptions
+NOUN / 1
+
+a.
+NOUN / 1
+
+m.
+NOUN / 1
+
+wergeland
+NOUN / 1
+
+called
+VERB / 1
+
+antihistorical
+ADJECTIVE / 1
+
+while
+CONJUNCTION / 1
+NOUN / 1
+
+clive
+NOUN / 1
+
+day
+NOUN / 1
+
+maintained
+VERB / 1
+
+confined
+VERB / 1
+
+theories
+NOUN / 1
+
+applicable
+ADJECTIVE / 1
+
+straight
+ADJECTIVE / 1
+
+factual
+ADJECTIVE / 1
+
+stated
+VERB / 1
+
+omits
+VERB / 1
+
+tend
+VERB / 1
+
+disprove
+VERB / 1
+
+d.
+NOUN / 1
+
+wasson
+NOUN / 1
+
+compared
+VERB / 1
+
+lifting
+NOUN / 1
+
+fog
+NOUN / 1
+
+ancient
+ADJECTIVE / 1
+
+landscapes
+NOUN / 1
+
+admit
+VERB / 1
+
+deficiencies
+NOUN / 1
+
+author
+NOUN / 1
+
+summary
+NOUN / 1
+
+felt
+VERB / 1
+
+nature
+NOUN / 1
+
+order
+NOUN / 1
+
+discovered
+VERB / 1
+
+subject
+ADJECTIVE / 1
+
+laws
+NOUN / 1
+
+forces
+NOUN / 1
+
+believed
+VERB / 1
+
+lacked
+VERB / 1
+
+essential
+ADJECTIVE / 1
+
+instruments
+NOUN / 1
+
+proper
+ADJECTIVE / 1
+
+despite
+PREPOSITION / 1
+
+insight
+NOUN / 1
+
+many
+DETERMINER / 1
+
+observations
+NOUN / 1
+
+conclusions
+NOUN / 1
+
+open
+ADJECTIVE / 1
+VERB / 1
+
+suspicion
+NOUN / 1
+
+employ
+VERB / 1
+
+times
+NOUN / 1
+
+correct
+ADJECTIVE / 1
+
+evaluation
+NOUN / 1
+
+findings
+NOUN / 1
+
+investigator
+NOUN / 1
+
+important
+ADJECTIVE / 1
+
+concept
+NOUN / 1
+
+shaped
+VERB / 1
+
+direction
+NOUN / 1
+
+thought
+NOUN / 1
+VERB / 1
+
+final
+ADJECTIVE / 1
+
+analysis
+NOUN / 1
+
+contribution
+NOUN / 1
+
+american
+ADJECTIVE / 1
+NOUN / 1
+
+founded
+VERB / 1
+
+religion
+NOUN / 1
+
+economics
+NOUN / 1
+
+darwinism
+NOUN / 1
+
+three
+CONJUNCTION / 1
+
+factors
+NOUN / 1
+
+conditioned
+VERB / 1
+
+supernaturalism
+NOUN / 1
+
+manifestation
+NOUN / 1
+
+fear
+NOUN / 1
+
+unknown
+NOUN / 1
+
+nothing
+PRONOUN / 1
+
+churches
+NOUN / 1
+
+created
+VERB / 1
+
+man
+NOUN / 1
+
+god
+NOUN / 1
+
+did
+VERB / 1
+
+deny
+VERB / 1
+
+believe
+VERB / 1
+
+intervened
+VERB / 1
+
+interfered
+VERB / 1
+
+human
+ADJECTIVE / 1
+
+affairs
+NOUN / 1
+
+need
+VERB / 1
+NOUN / 1
+
+concerned
+VERB / 1
+
+philosophical
+ADJECTIVE / 1
+
+problems
+NOUN / 1
+
+suggested
+VERB / 1
+
+positive
+ADJECTIVE / 1
+
+negative
+ADJECTIVE / 1
+
+type
+NOUN / 1
+
+actions
+NOUN / 1
+
+world
+NOUN / 1
+
+since
+CONJUNCTION / 1
+
+interested
+VERB / 1
+
+terrestrial
+ADJECTIVE / 1
+
+activity
+NOUN / 1
+
+eliminate
+VERB / 1
+
+supernatural
+NOUN / 1
+ADJECTIVE / 1
+
+regard
+VERB / 1
+
+expression
+NOUN / 1
+
+recognize
+VERB / 1
+
+power
+NOUN / 1
+
+attempt
+VERB / 1
+
+ascertain
+VERB / 1
+
+flow
+NOUN / 1
+
+confuse
+VERB / 1
+
+mundane
+ADJECTIVE / 1
+
+divine
+NOUN / 1
+ADJECTIVE / 1
+
+breaking
+VERB / 1
+
+new
+ADJECTIVE / 1
+
+ground
+NOUN / 1
+
+claimed
+VERB / 1
+
+worship
+NOUN / 1
+
+unseen
+ADJECTIVE / 1
+
+reflection
+NOUN / 1
+
+inability
+NOUN / 1
+
+cope
+VERB / 1
+
+students
+NOUN / 1
+
+anthropology
+NOUN / 1
+
+comparative
+ADJECTIVE / 1
+
+aware
+ADJECTIVE / 1
+
+direct
+ADJECTIVE / 1
+
+connection
+NOUN / 1
+
+suggest
+VERB / 1
+
+incompetence
+NOUN / 1
+
+only
+DETERMINER / 1
+
+motivating
+VERB / 1
+
+factor
+NOUN / 1
+
+behind
+PREPOSITION / 1
+
+development
+NOUN / 1
+
+priestly
+ADJECTIVE / 1
+
+caste
+NOUN / 1
+
+function
+NOUN / 1
+
+society
+NOUN / 1
+
+mollify
+VERB / 1
+
+appease
+VERB / 1
+
+angry
+ADJECTIVE / 1
+
+deities
+NOUN / 1
+
+keep
+VERB / 1
+
+themselves
+PRONOUN / 1
+
+entrenched
+VERB / 1
+
+priests
+NOUN / 1
+
+demonstrate
+VERB / 1
+
+unique
+ADJECTIVE / 1
+
+status
+NOUN / 1
+
+through
+PREPOSITION / 1
+
+miracle
+NOUN / 1
+
+kept
+VERB / 1
+
+business
+NOUN / 1
+
+barbarians
+NOUN / 1
+
+fourth
+NUMBER / 1
+
+offered
+VERB / 1
+
+excellent
+ADJECTIVE / 1
+
+germans
+NOUN / 1
+
+simple
+ADJECTIVE / 1
+
+comprehended
+VERB / 1
+
+little
+DETERMINER / 1
+ADJECTIVE / 1
+
+referred
+VERB / 1
+
+phenomena
+NOUN / 1
+
+intervention
+NOUN / 1
+
+controlled
+VERB / 1
+
+invasions
+NOUN / 1
+
+caused
+VERB / 1
+
+rapid
+ADJECTIVE / 1
+
+rise
+NOUN / 1
+
+sacred
+ADJECTIVE / 1
+
+class
+NOUN / 1
+
+ecclesiastical
+ADJECTIVE / 1
+
+organization
+NOUN / 1
+
+rested
+VERB / 1
+
+proved
+VERB / 1
+
+commission
+NOUN / 1
+
+elijah
+NOUN / 1
+
+once
+CONJUNCTION / 1
+
+special
+ADJECTIVE / 1
+
+became
+VERB / 1
+
+vested
+VERB / 1
+
+interest
+NOUN / 1
+
+sought
+VERB / 1
+
+maintain
+VERB / 1
+
+assuming
+VERB / 1
+
+exclusive
+ADJECTIVE / 1
+
+control
+NOUN / 1
+
+relationships
+NOUN / 1
+
+born
+VERB / 1
+
+intrinsic
+ADJECTIVE / 1
+
+character
+NOUN / 1
+
+identified
+VERB / 1
+
+conservative
+ADJECTIVE / 1
+
+institution
+NOUN / 1
+
+determined
+VERB / 1
+
+resist
+VERB / 1
+
+change
+NOUN / 1
+
+identify
+VERB / 1
+
+political
+ADJECTIVE / 1
+
+rulers
+NOUN / 1
+
+kind
+NOUN / 1
+
+splendid
+ADJECTIVE / 1
+
+isolation
+NOUN / 1
+
+masses
+NOUN / 1
+
+doctrine
+NOUN / 1
+
+mysterious
+ADJECTIVE / 1
+
+believer
+NOUN / 1
+
+inspired
+VERB / 1
+
+church
+NOUN / 1
+
+tolerate
+VERB / 1
+
+having
+VERB / 1
+
+canons
+NOUN / 1
+
+examined
+VERB / 1
+
+we
+PRONOUN / 1
+
+these
+DETERMINER / 1
+
+ideas
+NOUN / 1
+
+major
+ADJECTIVE / 1
+NOUN / 1
+
+keys
+NOUN / 1
+
+understanding
+NOUN / 1
+
+movement
+NOUN / 1
+
+dark
+ADJECTIVE / 1
+
+puritans
+NOUN / 1
+
+altered
+VERB / 1
+
+adherence
+NOUN / 1
+
+organized
+VERB / 1
+
+compelled
+VERB / 1
+
+make
+VERB / 1
+
+adjustments
+NOUN / 1
+
+increasing
+VERB / 1
+
+augmented
+VERB / 1
+
+traced
+VERB / 1
+
+evolution
+NOUN / 1
+
+pointing
+VERB / 1
+
+although
+CONJUNCTION / 1
+
+forms
+NOUN / 1
+
+rational
+ADJECTIVE / 1
+
+substance
+NOUN / 1
+
+remained
+VERB / 1
+
+unchanged
+ADJECTIVE / 1
+
+relic
+NOUN / 1
+
+monasticism
+NOUN / 1
+
+advanced
+VERB / 1
+
+primitive
+ADJECTIVE / 1
+
+fetish
+NOUN / 1
+
+myths
+NOUN / 1
+
+idea
+NOUN / 1
+
+imbedded
+VERB / 1
+
+each
+DETERMINER / 1
+
+identical
+ADJECTIVE / 1
+
+surround
+VERB / 1
+
+mystery
+NOUN / 1
+
+isolate
+VERB / 1
+
+given
+VERB / 1
+
+dominion
+NOUN / 1
+
+secrets
+NOUN / 1
+
+age
+NOUN / 1
+
+entire
+ADJECTIVE / 1
+
+culture
+NOUN / 1
+
+imagination
+NOUN / 1
+
+admiration
+NOUN / 1
+
+held
+VERB / 1
+
+eras
+NOUN / 1
+
+betrays
+VERB / 1
+
+peculiar
+ADJECTIVE / 1
+
+religiosity
+NOUN / 1
+
+sentiment
+NOUN / 1
+
+denied
+VERB / 1
+
+pulled
+VERB / 1
+
+hand
+NOUN / 1
+
+throttle
+NOUN / 1
+
+until
+CONJUNCTION / 1
+PREPOSITION / 1
+
+boat
+NOUN / 1
+
+moving
+VERB / 1
+
+crawl
+NOUN / 1
+
+watched
+VERB / 1
+
+elaine
+NOUN / 1
+
+spin
+VERB / 1
+
+station
+NOUN / 1
+
+tune
+VERB / 1
+
+null
+NOUN / 1
+
+line
+NOUN / 1
+
+chart
+NOUN / 1
+
+90
+CONJUNCTION / 1
+
+degree
+NOUN / 1
+
+shore
+NOUN / 1
+
+came
+VERB / 1
+
+raising
+VERB / 1
+NOUN / 1
+
+eyebrows
+NOUN / 1
+
+saw
+VERB / 1
+NOUN / 1
+
+?
+OTHER / 1
+
+asked
+VERB / 1
+
+she
+PRONOUN / 1
+
+replied
+VERB / 1
+
+you
+PRONOUN / 1
+
+drop
+VERB / 1
+NOUN / 1
+
+anchor
+NOUN / 1
+
+nodded
+VERB / 1
+
+swung
+VERB / 1
+
+moment
+NOUN / 1
+
+emerged
+VERB / 1
+
+forward
+ADJECTIVE / 1
+
+hatch
+NOUN / 1
+
+picked
+VERB / 1
+
+rock
+NOUN / 1
+
+roll
+NOUN / 1
+
+music
+NOUN / 1
+
+radio
+NOUN / 1
+
+faded
+VERB / 1
+
+coasted
+VERB / 1
+
+reverse
+VERB / 1
+
+said
+VERB / 1
+
+peered
+VERB / 1
+
+loop
+NOUN / 1
+
+rdf
+NOUN / 1
+
+waved
+VERB / 1
+
+second
+NUMBER / 1
+NOUN / 1
+
+wheel
+NOUN / 1
+
+backed
+VERB / 1
+
+set
+VERB / 1
+NOUN / 1
+
+ocean
+NOUN / 1
+
+floor
+NOUN / 1
+
+cut
+VERB / 1
+
+engines
+NOUN / 1
+
+cruiser
+NOUN / 1
+
+end
+NOUN / 1
+VERB / 1
+
+lines
+NOUN / 1
+
+bow
+NOUN / 1
+
+wind
+NOUN / 1
+VERB / 1
+
+cockpit
+NOUN / 1
+
+faced
+VERB / 1
+
+toward
+PREPOSITION / 1
+
+nick
+NOUN / 1
+
+her
+PRONOUN / 1
+
+started
+VERB / 1
+
+auxiliary
+ADJECTIVE / 1
+
+motor
+NOUN / 1
+
+wearing
+VERB / 1
+
+bathing
+VERB / 1
+
+trunks
+NOUN / 1
+
+price
+NOUN / 1
+
+tag
+NOUN / 1
+
+hung
+VERB / 1
+
+belt
+NOUN / 1
+
+entered
+VERB / 1
+
+chartroom
+NOUN / 1
+
+looked
+VERB / 1
+
+wondered
+VERB / 1
+
+bought
+VERB / 1
+
+nobody
+PRONOUN / 1
+
+realized
+VERB / 1
+
+saying
+VERB / 1
+
+anything
+PRONOUN / 1
+
+under
+PREPOSITION / 1
+
+spell
+NOUN / 1
+
+excited
+VERB / 1
+
+conversation
+NOUN / 1
+
+below
+PREPOSITION / 1
+
+treasure
+NOUN / 1
+
+lost
+VERB / 1
+
+four
+CONJUNCTION / 1
+
+hundred
+CONJUNCTION / 1
+
+years
+NOUN / 1
+
+chatter
+NOUN / 1
+
+like
+CONJUNCTION / 1
+ADJECTIVE / 1
+VERB / 1
+
+finder
+NOUN / 1
+
+gone
+VERB / 1
+
+flying
+VERB / 1
+
+friends
+NOUN / 1
+
+small
+ADJECTIVE / 1
+
+private
+ADJECTIVE / 1
+
+airplane
+NOUN / 1
+
+single
+DETERMINER / 1
+ADJECTIVE / 1
+
+engine
+NOUN / 1
+
+laughing
+VERB / 1
+
+joking
+VERB / 1
+
+failed
+VERB / 1
+
+screamed
+VERB / 1
+
+prayed
+VERB / 1
+
+fallen
+VERB / 1
+
+silence
+NOUN / 1
+
+listening
+VERB / 1
+
+whistle
+NOUN / 1
+
+wings
+NOUN / 1
+
+pilot
+NOUN / 1
+
+landed
+VERB / 1
+
+plane
+NOUN / 1
+
+airstrip
+NOUN / 1
+
+connecticut
+NOUN / 1
+
+aircraft
+NOUN / 1
+
+stop
+NOUN / 1
+VERB / 1
+
+everyone
+PRONOUN / 1
+
+burst
+VERB / 1
+
+same
+DETERMINER / 1
+
+tension
+NOUN / 1
+
+silent
+ADJECTIVE / 1
+
+descent
+NOUN / 1
+
+concrete
+ADJECTIVE / 1
+
+reason
+NOUN / 1
+
+none
+PRONOUN / 1
+
+unless
+CONJUNCTION / 1
+
+skin
+NOUN / 1
+
+diving
+NOUN / 1
+VERB / 1
+
+dangerous
+ADJECTIVE / 1
+
+existed
+VERB / 1
+
+taut-nerved
+ADJECTIVE / 1
+
+relationship
+NOUN / 1
+
+passengers
+NOUN / 1
+
+strained
+VERB / 1
+
+cloud
+NOUN / 1
+
+arrival
+NOUN / 1
+
+sudden
+ADJECTIVE / 1
+
+skidding
+VERB / 1
+
+sun
+NOUN / 1
+
+table
+NOUN / 1
+
+went
+VERB / 1
+
+trailing
+VERB / 1
+
+threw
+VERB / 1
+
+cushion
+NOUN / 1
+
+seats
+NOUN / 1
+
+unlocked
+VERB / 1
+
+padlock
+NOUN / 1
+
+chest
+NOUN / 1
+
+beneath
+PREPOSITION / 1
+
+straightened
+VERB / 1
+
+holding
+VERB / 1
+
+long
+ADJECTIVE / 1
+
+knife
+NOUN / 1
+
+wicked
+ADJECTIVE / 1
+
+looking
+ADJECTIVE / 1
+VERB / 1
+
+spear
+NOUN / 1
+
+gun
+NOUN / 1
+
+whistled
+VERB / 1
+
+hydraulic
+ADJECTIVE / 1
+
+best
+ADJECTIVE / 1
+
+kicked
+VERB / 1
+
+locker
+NOUN / 1
+
+lid
+NOUN / 1
+
+shut
+VERB / 1
+
+replaced
+VERB / 1
+
+efficient
+ADJECTIVE / 1
+
+deadliest
+ADJECTIVE / 1
+
+commented
+VERB / 1
+
+buckled
+VERB / 1
+
+tank
+NOUN / 1
+
+harness
+NOUN / 1
+
+do
+VERB / 1
+
+arsenal
+NOUN / 1
+
+staring
+VERB / 1
+
+weapon
+NOUN / 1
+
+codfish
+NOUN / 1
+
+short
+ADJECTIVE / 1
+
+nervous
+ADJECTIVE / 1
+
+laugh
+NOUN / 1
+
+swimming
+VERB / 1
+
+fins
+NOUN / 1
+
+handed
+VERB / 1
+
+rolled
+VERB / 1
+
+off
+PREPOSITION / 1
+
+transom
+NOUN / 1
+
+back
+NOUN / 1
+
+water
+NOUN / 1
+
+fashion
+NOUN / 1
+
+out
+PREPOSITION / 1
+
+sight
+NOUN / 1
+
+leaving
+VERB / 1
+
+string
+NOUN / 1
+
+bubbles
+NOUN / 1
+
+clue
+NOUN / 1
+
+whereabouts
+NOUN / 1
+
+twisting
+VERB / 1
+
+course
+NOUN / 1
+
+wondering
+VERB / 1
+
+close
+ADJECTIVE / 1
+VERB / 1
+NOUN / 1
+
+air
+NOUN / 1
+
+trail
+NOUN / 1
+
+wiggling
+VERB / 1
+
+serpents
+NOUN / 1
+
+traveling
+VERB / 1
+
+side
+NOUN / 1
+
+sparkle
+NOUN / 1
+
+surface
+NOUN / 1
+
+clasping
+VERB / 1
+
+hands
+NOUN / 1
+
+head
+NOUN / 1
+
+stared
+VERB / 1
+
+blue
+ADJECTIVE / 1
+
+sky
+NOUN / 1
+
+alfredo
+NOUN / 1
+
+enjoyed
+VERB / 1
+
+loneliest
+ADJECTIVE / 1
+
+spot
+NOUN / 1
+
+desert
+NOUN / 1
+
+elaine's
+NOUN / 1
+
+uncle
+NOUN / 1
+
+stuck
+VERB / 1
+
+aloneness
+NOUN / 1
+
+alive
+ADJECTIVE / 1
+
+wanted
+VERB / 1
+
+money
+NOUN / 1
+
+roam
+VERB / 1
+
+deserts
+NOUN / 1
+
+graham
+NOUN / 1
+
+among
+PREPOSITION / 1
+
+dice
+NOUN / 1
+
+tables
+NOUN / 1
+
+las
+NOUN / 1
+
+vegas
+NOUN / 1
+
+odd
+ADJECTIVE / 1
+
+combination
+NOUN / 1
+
+strange
+ADJECTIVE / 1
+
+pair
+NOUN / 1
+
+stumble
+VERB / 1
+
+wreck
+NOUN / 1
+
+trinidad
+NOUN / 1
+
+hadn't
+VERB / 1
+
+stumbled
+VERB / 1
+
+two
+CONJUNCTION / 1
+
+weeks
+NOUN / 1
+
+charter
+NOUN / 1
+
+virginia
+NOUN / 1
+
+snooping
+VERB / 1
+
+around
+PREPOSITION / 1
+
+helicopter
+NOUN / 1
+
+steel
+NOUN / 1
+
+skids
+NOUN / 1
+
+churned
+VERB / 1
+
+raised
+VERB / 1
+
+watch
+VERB / 1
+NOUN / 1
+
+heading
+VERB / 1
+
+south
+NOUN / 1
+
+hell
+NOUN / 1
+
+note
+NOUN / 1
+VERB / 1
+
+couple
+NOUN / 1
+
+even
+VERB / 1
+
+find
+VERB / 1
+
+secluded
+VERB / 1
+
+beach
+NOUN / 1
+
+neck
+VERB / 1
+NOUN / 1
+
+someone
+PRONOUN / 1
+
+swooping
+VERB / 1
+
+thing
+NOUN / 1
+
+yesterday
+NOUN / 1
+
+eyeful
+NOUN / 1
+
+west
+NOUN / 1
+
+beautiful
+ADJECTIVE / 1
+
+schooner
+NOUN / 1
+
+beat
+VERB / 1
+NOUN / 1
+
+way
+NOUN / 1
+
+headed
+VERB / 1
+
+tack
+NOUN / 1
+
+san
+NOUN / 1
+
+clemente
+NOUN / 1
+
+cabin
+NOUN / 1
+
+drifted
+VERB / 1
+
+ground-swell
+NOUN / 1
+
+lone
+ADJECTIVE / 1
+
+fisherman
+NOUN / 1
+
+chair
+NOUN / 1
+
+middle
+NOUN / 1
+
+recalled
+VERB / 1
+
+stories
+NOUN / 1
+
+fishing
+VERB / 1
+
+spots
+NOUN / 1
+
+dropped
+VERB / 1
+
+fantastic
+ADJECTIVE / 1
+
+depths
+NOUN / 1
+
+shoreline
+NOUN / 1
+
+geologists
+NOUN / 1
+
+warned
+VERB / 1
+
+land
+NOUN / 1
+
+both
+OTHER / 1
+
+sides
+NOUN / 1
+
+deeps
+NOUN / 1
+
+la
+NOUN / 1
+
+jolla
+NOUN / 1
+
+fishermen
+NOUN / 1
+
+advantage
+NOUN / 1
+
+pull
+VERB / 1
+
+whoppers
+NOUN / 1
+
+fish
+NOUN / 1
+
+exploded
+VERB / 1
+
+neared
+VERB / 1
+
+pressure
+NOUN / 1
+
+trip
+NOUN / 1
+
+skindive
+VERB / 1
+
+run
+VERB / 1
+NOUN / 1
+
+except
+PREPOSITION / 1
+
+sea
+NOUN / 1
+
+stood
+VERB / 1
+
+stretched
+VERB / 1
+
+see
+VERB / 1
+
+strolling
+VERB / 1
+
+galley
+NOUN / 1
+
+lit
+VERB / 1
+
+butane
+NOUN / 1
+
+coffee
+NOUN / 1
+
+pot
+NOUN / 1
+
+brew
+NOUN / 1
+
+heated
+VERB / 1
+
+poured
+VERB / 1
+
+cup
+NOUN / 1
+
+turning
+VERB / 1
+
+hi-fi
+NOUN / 1
+
+cushions
+NOUN / 1
+
+listened
+VERB / 1
+
+returned
+VERB / 1
+
+popping
+VERB / 1
+
+dolphins
+NOUN / 1
+
+sat
+VERB / 1
+
+stern
+NOUN / 1
+ADJECTIVE / 1
+
+any
+DETERMINER / 1
+
+luck
+NOUN / 1
+
+shook
+VERB / 1
+
+sliding
+VERB / 1
+
+face
+NOUN / 1
+VERB / 1
+
+mask
+NOUN / 1
+
+forehead
+NOUN / 1
+
+edge
+NOUN / 1
+
+pulling
+VERB / 1
+
+placed
+VERB / 1
+
+across
+PREPOSITION / 1
+
+lifted
+VERB / 1
+
+wet
+ADJECTIVE / 1
+
+hair
+NOUN / 1
+
+squeezed
+VERB / 1
+
+break
+NOUN / 1
+VERB / 1
+
+area
+NOUN / 1
+
+less
+DETERMINER / 1
+
+square
+NOUN / 1
+ADJECTIVE / 1
+
+mile
+NOUN / 1
+
+added
+VERB / 1
+
+legs
+NOUN / 1
+
+news
+NOUN / 1
+
+tossed
+VERB / 1
+
+towel
+NOUN / 1
+
+repeated
+VERB / 1
+
+service
+NOUN / 1
+
+cigarette
+NOUN / 1
+
+slipped
+VERB / 1
+
+feet
+NOUN / 1
+
+reached
+VERB / 1
+
+smoke
+NOUN / 1
+
+swing
+VERB / 1
+
+fin
+NOUN / 1
+
+foot
+NOUN / 1
+
+caught
+VERB / 1
+
+moulding
+NOUN / 1
+
+throwing
+VERB / 1
+
+balance
+NOUN / 1
+
+forearm
+NOUN / 1
+
+smashed
+VERB / 1
+
+narrow
+ADJECTIVE / 1
+
+washboard
+NOUN / 1
+
+grimaced
+VERB / 1
+
+grabbed
+VERB / 1
+
+bruised
+VERB / 1
+
+limb
+NOUN / 1
+
+other
+DETERMINER / 1
+
+kee-reist
+OTHER / 1
+
+!
+OTHER / 1
+
+word
+NOUN / 1
+
+hissed
+VERB / 1
+
+lips
+NOUN / 1
+
+struggled
+VERB / 1
+
+nick's
+NOUN / 1
+
+body
+NOUN / 1
+
+rigid
+ADJECTIVE / 1
+
+brilliant
+ADJECTIVE / 1
+
+glare
+NOUN / 1
+
+horror
+NOUN / 1
+
+creased
+VERB / 1
+
+pain
+NOUN / 1
+
+studied
+VERB / 1
+
+underside
+NOUN / 1
+
+arm
+NOUN / 1
+
+murderer
+NOUN / 1
+
+shocked
+VERB / 1
+
+surprise
+NOUN / 1
+
+charged
+VERB / 1
+
+atmosphere
+NOUN / 1
+
+implication
+NOUN / 1
+
+oath
+NOUN / 1
+
+frozen
+VERB / 1
+
+mannequin
+NOUN / 1
+
+motionless
+ADJECTIVE / 1
+
+then
+ADJECTIVE / 1
+
+knew
+VERB / 1
+
+recovered
+VERB / 1
+
+imagined
+VERB / 1
+
+reaction
+NOUN / 1
+
+bandage
+NOUN / 1
+
+rubbed
+VERB / 1
+
+banging
+VERB / 1
+
+shin
+NOUN / 1
+
+lingered
+VERB / 1
+
+moved
+VERB / 1
+
+hurts
+NOUN / 1
+
+disappears
+VERB / 1
+
+get
+VERB / 1
+
+ointment
+NOUN / 1
+
+turned
+VERB / 1
+
+companionway
+NOUN / 1
+
+walk
+NOUN / 1
+VERB / 1
+
+steady
+ADJECTIVE / 1
+
+slow
+ADJECTIVE / 1
+
+telegraphing
+VERB / 1
+
+sensed
+VERB / 1
+
+springing
+VERB / 1
+
+cat
+NOUN / 1
+
+leaped
+VERB / 1
+
+swooped
+VERB / 1
+
+spring
+NOUN / 1
+
+whirling
+VERB / 1
+
+pointed
+VERB / 1
+
+instant
+NOUN / 1
+
+hit
+VERB / 1
+
+barrel
+NOUN / 1
+
+smaller
+ADJECTIVE / 1
+
+fired
+VERB / 1
+
+next
+PREPOSITION / 1
+DETERMINER / 1
+
+ear
+NOUN / 1
+
+vicious
+ADJECTIVE / 1
+
+whoosh
+OTHER / 1
+
+stroke
+NOUN / 1
+
+old
+ADJECTIVE / 1
+
+steam
+NOUN / 1
+
+ending
+VERB / 1
+
+top
+NOUN / 1
+ADJECTIVE / 1
+
+frantic
+ADJECTIVE / 1
+
+struggling
+VERB / 1
+
+closed
+VERB / 1
+
+atavistic
+ADJECTIVE / 1
+
+sense
+NOUN / 1
+
+survive
+VERB / 1
+
+alien
+ADJECTIVE / 1
+
+element
+NOUN / 1
+
+panic
+VERB / 1
+
+whom
+PRONOUN / 1
+
+clung
+VERB / 1
+
+tremendous
+ADJECTIVE / 1
+
+wide
+ADJECTIVE / 1
+
+flippers
+NOUN / 1
+
+gave
+VERB / 1
+
+incredible
+ADJECTIVE / 1
+
+driving
+VERB / 1
+
+captured
+VERB / 1
+
+arms
+NOUN / 1
+
+pinioned
+VERB / 1
+
+twisted
+VERB / 1
+
+trying
+VERB / 1
+
+escape
+VERB / 1
+
+wore
+VERB / 1
+
+apparatus
+NOUN / 1
+
+let
+VERB / 1
+
+rubber
+NOUN / 1
+
+glass
+NOUN / 1
+
+bounced
+VERB / 1
+
+chin
+NOUN / 1
+
+disappeared
+VERB / 1
+
+knuckles
+NOUN / 1
+VERB / 1
+
+scraped
+VERB / 1
+
+ripping
+VERB / 1
+
+split
+VERB / 1
+
+relaxed
+VERB / 1
+
+grip
+NOUN / 1
+
+slippery
+ADJECTIVE / 1
+
+spun
+VERB / 1
+
+rear
+NOUN / 1
+
+something
+PRONOUN / 1
+
+flailed
+VERB / 1
+
+stopped
+VERB / 1
+
+suspended
+VERB / 1
+
+rising
+VERB / 1
+
+sinking
+VERB / 1
+
+sharp
+ADJECTIVE / 1
+
+lanced
+VERB / 1
+
+bubble
+NOUN / 1
+
+escaped
+VERB / 1
+
+tortured
+VERB / 1
+
+lungs
+NOUN / 1
+
+joining
+VERB / 1
+
+dozens
+NOUN / 1
+
+others
+NOUN / 1
+
+sailed
+VERB / 1
+
+helium
+NOUN / 1
+
+balloons
+NOUN / 1
+
+black
+ADJECTIVE / 1
+
+snake-like
+ADJECTIVE / 1
+
+object
+NOUN / 1
+
+swayed
+VERB / 1
+
+front
+NOUN / 1
+
+spewing
+VERB / 1
+
+flat
+ADJECTIVE / 1
+
+cobra
+NOUN / 1
+
+hose
+NOUN / 1
+
+free
+ADJECTIVE / 1
+
+struck
+VERB / 1
+
+blow
+NOUN / 1
+
+flashed
+VERB / 1
+
+catching
+VERB / 1
+
+bend
+NOUN / 1
+
+elbow
+NOUN / 1
+
+loose
+ADJECTIVE / 1
+
+writhing
+VERB / 1
+
+bit
+VERB / 1
+NOUN / 1
+
+hard
+ADJECTIVE / 1
+
+mouthpiece
+NOUN / 1
+
+exhaled
+VERB / 1
+
+nose
+NOUN / 1
+
+sucked
+VERB / 1
+
+excruciating
+ADJECTIVE / 1
+
+seized
+VERB / 1
+
+wild
+ADJECTIVE / 1
+
+exultation
+NOUN / 1
+
+signal
+NOUN / 1
+
+began
+VERB / 1
+
+thrash
+VERB / 1
+
+quick
+ADJECTIVE / 1
+
+sink
+VERB / 1
+NOUN / 1
+
+sucking
+VERB / 1
+
+inhaling
+VERB / 1
+
+belonged
+VERB / 1
+
+fighting
+VERB / 1
+
+romantic
+ADJECTIVE / 1
+
+concerns
+VERB / 1
+
+mrs.
+NOUN / 1
+
+joan
+NOUN / 1
+
+monroe
+NOUN / 1
+
+armour
+NOUN / 1
+
+f.
+NOUN / 1
+
+lee
+NOUN / 1
+
+h.
+NOUN / 1
+
+wendell
+NOUN / 1
+
+married
+VERB / 1
+
+4:30
+CONJUNCTION / 1
+
+tomorrow
+NOUN / 1
+
+home
+NOUN / 1
+
+hampton
+NOUN / 1
+
+families
+NOUN / 1
+
+dozen
+NOUN / 1
+
+bride's
+NOUN / 1
+
+walter
+NOUN / 1
+
+jr.
+NOUN / 1
+
+give
+VERB / 1
+
+marriage
+NOUN / 1
+
+group
+NOUN / 1
+
+junior
+ADJECTIVE / 1
+
+senior
+ADJECTIVE / 1
+
+bridegroom's
+NOUN / 1
+
+parents
+NOUN / 1
+
+barrett
+NOUN / 1
+
+wendells
+NOUN / 1
+
+returning
+VERB / 1
+
+winter
+NOUN / 1
+
+holiday
+NOUN / 1
+
+sarasota
+NOUN / 1
+
+fla.
+NOUN / 1
+
+occasion
+NOUN / 1
+
+mr.
+NOUN / 1
+
+wife
+NOUN / 1
+
+arrive
+VERB / 1
+
+boston
+NOUN / 1
+
+children
+NOUN / 1
+
+13
+CONJUNCTION / 1
+
+kirkland
+NOUN / 1
+
+11
+CONJUNCTION / 1
+
+father
+NOUN / 1
+
+charles
+NOUN / 1
+
+b.
+NOUN / 1
+
+christmas
+NOUN / 1
+
+holidays
+NOUN / 1
+
+return
+VERB / 1
+NOUN / 1
+ADJECTIVE / 1
+
+young
+ADJECTIVE / 1
+
+peter
+NOUN / 1
+
+student
+NOUN / 1
+
+westminster
+NOUN / 1
+
+school
+NOUN / 1
+
+measles
+NOUN / 1
+
+sister
+NOUN / 1
+
+andrew
+NOUN / 1
+
+thomas
+NOUN / 1
+
+husband
+NOUN / 1
+
+live
+VERB / 1
+
+missoula
+NOUN / 1
+
+mont.
+NOUN / 1
+
+baby
+NOUN / 1
+
+mother
+NOUN / 1
+
+camilla
+NOUN / 1
+
+alsop
+NOUN / 1
+
+bride
+NOUN / 1
+
+house
+NOUN / 1
+
+take
+VERB / 1
+
+wedding
+NOUN / 1
+
+'
+OTHER / 1
+
+met
+NOUN / 1
+VERB / 1
+
+chicago
+NOUN / 1
+
+bulletins
+VERB / 1
+
+frank
+NOUN / 1
+ADJECTIVE / 1
+
+s.
+NOUN / 1
+
+sims
+NOUN / 1
+
+president
+NOUN / 1
+
+women's
+NOUN / 1
+
+board
+NOUN / 1
+
+may
+NOUN / 1
+
+sponsor
+VERB / 1
+NOUN / 1
+
+saturday
+NOUN / 1
+
+night
+NOUN / 1
+
+performance
+NOUN / 1
+
+turandot
+NOUN / 1
+
+benefit
+NOUN / 1
+
+birgit
+NOUN / 1
+
+nilsson
+NOUN / 1
+
+starred
+VERB / 1
+
+housed
+VERB / 1
+
+mccormick
+NOUN / 1
+
+theater
+NOUN / 1
+
+prove
+VERB / 1
+
+exciting
+ADJECTIVE / 1
+
+evening
+NOUN / 1
+
+adds
+VERB / 1
+
+board's
+NOUN / 1
+
+last
+DETERMINER / 1
+
+event
+NOUN / 1
+
+harry
+NOUN / 1
+
+belafonte
+NOUN / 1
+
+off-beat
+ADJECTIVE / 1
+
+decided
+VERB / 1
+
+members
+NOUN / 1
+
+sulcer
+NOUN / 1
+
+winnetka
+NOUN / 1
+
+member
+NOUN / 1
+
+chairman
+NOUN / 1
+
+publicity
+NOUN / 1
+
+appointed
+VERB / 1
+
+vice
+NOUN / 1
+
+university
+NOUN / 1
+
+bringing
+VERB / 1
+
+east
+NOUN / 1
+
+recent
+ADJECTIVE / 1
+
+death
+NOUN / 1
+
+frederick
+NOUN / 1
+
+hamm
+NOUN / 1
+
+miss
+NOUN / 1
+
+terry
+NOUN / 1
+
+john
+NOUN / 1
+
+bruce
+NOUN / 1
+
+parichy
+NOUN / 1
+
+noon
+NOUN / 1
+
+reception
+NOUN / 1
+
+follow
+VERB / 1
+
+hotel
+NOUN / 1
+
+come
+VERB / 1
+
+stay
+VERB / 1
+
+g.
+NOUN / 1
+
+beadles'
+NOUN / 1
+
+beadles
+NOUN / 1
+
+lived
+VERB / 1
+
+harvey
+NOUN / 1
+
+stevens
+NOUN / 1
+
+kenilworth
+NOUN / 1
+
+niece
+NOUN / 1
+
+uncles
+NOUN / 1
+
+aunts
+NOUN / 1
+
+rush
+NOUN / 1
+
+c.
+NOUN / 1
+
+butlers
+NOUN / 1
+
+homer
+NOUN / 1
+
+e.
+NOUN / 1
+
+robertsons
+NOUN / 1
+
+david
+NOUN / 1
+
+q.
+NOUN / 1
+
+porters
+NOUN / 1
+
+bridal
+NOUN / 1
+
+dinner
+NOUN / 1
+
+tonight
+NOUN / 1
+
+stevenses'
+NOUN / 1
+
+club
+NOUN / 1
+
+fete
+VERB / 1
+
+george
+NOUN / 1
+
+barnes
+NOUN / 1
+
+association
+NOUN / 1
+
+cocktail
+NOUN / 1
+
+party
+NOUN / 1
+
+buffet
+NOUN / 1
+
+supper
+NOUN / 1
+
+beginning
+VERB / 1
+
+5:30
+CONJUNCTION / 1
+
+bus
+NOUN / 1
+
+carry
+VERB / 1
+
+jack
+NOUN / 1
+
+kramer's
+NOUN / 1
+
+tennis
+NOUN / 1
+
+matches
+NOUN / 1
+
+8
+CONJUNCTION / 1
+
+loud
+ADJECTIVE / 1
+
+huzzahs
+NOUN / 1
+
+artistic
+ADJECTIVE / 1
+
+success
+NOUN / 1
+
+presbyterian-st.
+NOUN / 1
+
+luke's
+NOUN / 1
+
+show
+NOUN / 1
+VERB / 1
+
+ringing
+VERB / 1
+
+ears
+NOUN / 1
+
+director
+NOUN / 1
+
+helen
+NOUN / 1
+
+tieken
+NOUN / 1
+
+geraghty
+NOUN / 1
+
+(
+OTHER / 1
+
+maurice
+NOUN / 1
+
+p.
+NOUN / 1
+
+)
+OTHER / 1
+
+taking
+VERB / 1
+
+56
+CONJUNCTION / 1
+
+earn
+VERB / 1
+
+greater
+ADJECTIVE / 1
+
+acclaim
+NOUN / 1
+
+entertainment
+NOUN / 1
+
+summer's
+NOUN / 1
+
+fair
+NOUN / 1
+ADJECTIVE / 1
+
+armed
+VERB / 1
+
+letters
+NOUN / 1
+
+embassies
+NOUN / 1
+
+ministers
+NOUN / 1
+
+countries
+NOUN / 1
+
+near
+ADJECTIVE / 1
+PREPOSITION / 1
+
+far
+ADJECTIVE / 1
+
+bushes
+NOUN / 1
+
+oriental
+ADJECTIVE / 1
+
+talent
+NOUN / 1
+
+expect
+VERB / 1
+
+establish
+VERB / 1
+
+closer
+ADJECTIVE / 1
+
+relations
+NOUN / 1
+
+cultural
+ADJECTIVE / 1
+
+activities
+NOUN / 1
+
+easy
+ADJECTIVE / 1
+
+staff
+NOUN / 1
+
+bring
+VERB / 1
+
+acts
+NOUN / 1
+
+explains
+VERB / 1
+
+instance
+NOUN / 1
+
+djakarta
+NOUN / 1
+
+indonesia
+NOUN / 1
+
+groups
+NOUN / 1
+
+dancers
+NOUN / 1
+
+going
+VERB / 1
+
+try
+VERB / 1
+
+dervishes
+NOUN / 1
+
+damascus
+NOUN / 1
+
+obstacle
+NOUN / 1
+
+geraghty's
+NOUN / 1
+
+globe-girdling
+ADJECTIVE / 1
+
+smoothed
+VERB / 1
+
+representative
+NOUN / 1
+
+syria
+NOUN / 1
+
+explain
+VERB / 1
+
+meet
+VERB / 1
+
+border
+NOUN / 1
+
+country
+NOUN / 1
+
+obtain
+VERB / 1
+
+visa
+NOUN / 1
+
+honolulu
+NOUN / 1
+
+japan
+NOUN / 1
+
+hong
+NOUN / 1
+
+kong
+NOUN / 1
+
+manila
+NOUN / 1
+
+india
+NOUN / 1
+
+pakistan
+NOUN / 1
+
+beirut
+NOUN / 1
+
+london
+NOUN / 1
+
+paris
+NOUN / 1
+
+look
+VERB / 1
+
+wonderful
+ADJECTIVE / 1
+
+dec.
+NOUN / 1
+
+22
+CONJUNCTION / 1
+
+deadline
+NOUN / 1
+
+geraghtys'
+NOUN / 1
+
+youngest
+ADJECTIVE / 1
+
+daughter
+NOUN / 1
+
+molly
+NOUN / 1
+
+bows
+VERB / 1
+
+cotillion
+NOUN / 1
+
+gown
+NOUN / 1
+
+says
+VERB / 1
+
+invitations
+NOUN / 1
+
+addressed
+VERB / 1
+
+molly's
+NOUN / 1
+
+debut
+NOUN / 1
+
+tea
+NOUN / 1
+
+afternoon
+NOUN / 1
+
+29
+CONJUNCTION / 1
+
+international
+ADJECTIVE / 1
+
+folk
+NOUN / 1
+
+song
+NOUN / 1
+
+festival
+NOUN / 1
+
+singers
+NOUN / 1
+
+chicago's
+NOUN / 1
+
+sing
+VERB / 1
+
+songs
+NOUN / 1
+
+theme
+NOUN / 1
+
+continued
+VERB / 1
+
+balkan
+NOUN / 1
+
+strings
+NOUN / 1
+
+playing
+VERB / 1
+
+byron
+NOUN / 1
+
+harveys
+NOUN / 1
+
+racquet
+NOUN / 1
+
+after
+PREPOSITION / 1
+CONJUNCTION / 1
+
+abra
+NOUN / 1
+
+prentice's
+NOUN / 1
+
+dance
+NOUN / 1
+
+richard
+NOUN / 1
+
+burkes'
+NOUN / 1
+
+wayne
+NOUN / 1
+
+setting
+NOUN / 1
+
+lambert
+NOUN / 1
+
+italian
+ADJECTIVE / 1
+NOUN / 1
+
+year
+NOUN / 1
+
+florence
+NOUN / 1
+
+smith
+NOUN / 1
+
+college
+NOUN / 1
+
+aldo
+NOUN / 1
+
+rostagno
+NOUN / 1
+
+son
+NOUN / 1
+
+guglielmo
+NOUN / 1
+
+rostagnos
+NOUN / 1
+
+burkes
+NOUN / 1
+
+europe
+NOUN / 1
+
+kankakee
+NOUN / 1
+
+telling
+VERB / 1
+
+engagement
+NOUN / 1
+
+burke
+NOUN / 1
+
+graduate
+NOUN / 1
+
+hall's
+NOUN / 1
+
+stayed
+VERB / 1
+
+career
+NOUN / 1
+
+girl
+NOUN / 1
+
+fiance
+NOUN / 1
+
+publishing
+VERB / 1
+
+firm
+NOUN / 1
+
+translates
+VERB / 1
+
+books
+NOUN / 1
+
+december
+NOUN / 1
+
+place
+NOUN / 1
+VERB / 1
+
+farewell
+NOUN / 1
+
+sethness
+NOUN / 1
+
+planned
+VERB / 1
+
+sunday
+NOUN / 1
+
+giacomo
+NOUN / 1
+
+profili
+NOUN / 1
+
+canceled
+VERB / 1
+
+hospital
+NOUN / 1
+
+surgery
+NOUN / 1
+
+odell
+NOUN / 1
+
+clinton
+NOUN / 1
+
+king
+NOUN / 1
+
+holabird
+NOUN / 1
+
+norman
+NOUN / 1
+
+boothby
+NOUN / 1
+
+maureen
+NOUN / 1
+
+o'sullivan
+NOUN / 1
+
+judge
+VERB / 1
+NOUN / 1
+
+costumes
+NOUN / 1
+
+grand
+ADJECTIVE / 1
+
+march
+NOUN / 1
+
+affaire
+NOUN / 1
+
+bal
+NOUN / 1
+
+masque
+NOUN / 1
+
+germania
+NOUN / 1
+
+raise
+VERB / 1
+
+center
+NOUN / 1
+
+plant
+VERB / 1
+
+crabapple
+NOUN / 1
+
+trees
+NOUN / 1
+
+along
+PREPOSITION / 1
+
+streets
+NOUN / 1
+
+lyon
+NOUN / 1
+
+winchell
+NOUN / 1
+
+well
+ADJECTIVE / 1
+OTHER / 1
+
+rat-a-tat-tatty
+ADJECTIVE / 1
+
+wheeled
+VERB / 1
+
+thru
+PREPOSITION / 1
+
+town
+NOUN / 1
+
+trains
+NOUN / 1
+
+phoenix
+NOUN / 1
+
+ariz.
+NOUN / 1
+
+rancho
+NOUN / 1
+
+portable
+ADJECTIVE / 1
+
+typewriter
+NOUN / 1
+
+w.
+NOUN / 1
+
+retiring
+VERB / 1
+
+hinted
+VERB / 1
+
+ain't
+VERB / 1
+
+talking
+VERB / 1
+
+pretty
+ADJECTIVE / 1
+
+sunny
+NOUN / 1
+
+ainsworth
+NOUN / 1
+
+ex-mrs.
+NOUN / 1
+
+tommy
+NOUN / 1
+
+manville
+NOUN / 1
+
+bud
+NOUN / 1
+
+arvey
+NOUN / 1
+
+joined
+VERB / 1
+
+promotional
+ADJECTIVE / 1
+
+copy
+NOUN / 1
+
+writer
+NOUN / 1
+
+whiz
+NOUN / 1
+
+argument
+NOUN / 1
+
+fallout
+NOUN / 1
+
+shelters
+NOUN / 1
+
+beer
+NOUN / 1
+
+stein
+NOUN / 1
+
+clubs
+NOUN / 1
+
+pubs
+NOUN / 1
+
+nights
+NOUN / 1
+
+everybody
+PRONOUN / 1
+
+different
+ADJECTIVE / 1
+
+ethics
+NOUN / 1
+
+morals
+NOUN / 1
+
+neighbors
+NOUN / 1
+
+comic
+NOUN / 1
+
+gary
+NOUN / 1
+
+morton
+NOUN / 1
+
+signed
+VERB / 1
+
+play
+VERB / 1
+NOUN / 1
+
+18
+CONJUNCTION / 1
+
+heart
+NOUN / 1
+
+lucille
+NOUN / 1
+
+ball
+NOUN / 1
+
+headline
+NOUN / 1
+
+scoop
+NOUN / 1
+
+jane
+NOUN / 1
+
+russell
+NOUN / 1
+
+rare
+ADJECTIVE / 1
+
+singing
+VERB / 1
+
+appearances
+NOUN / 1
+
+opening
+VERB / 1
+NOUN / 1
+
+jan.
+NOUN / 1
+
+russell's
+NOUN / 1
+
+debuting
+VERB / 1
+
+week
+NOUN / 1
+
+sellout
+NOUN / 1
+
+johnny
+NOUN / 1
+
+ray
+NOUN / 1
+
+l.
+NOUN / 1
+
+r.
+NOUN / 1
+
+cry
+VERB / 1
+NOUN / 1
+
+warbling
+VERB / 1
+
+severe
+ADJECTIVE / 1
+
+medico's
+NOUN / 1
+
+injection
+NOUN / 1
+
+inflamed
+VERB / 1
+
+nerve
+NOUN / 1
+
+charley
+NOUN / 1
+
+simonelli
+NOUN / 1
+
+film
+NOUN / 1
+
+studio
+NOUN / 1
+
+exec
+NOUN / 1
+
+honest
+ADJECTIVE / 1
+
+column
+NOUN / 1
+
+bulletin'd
+VERB / 1
+
+wed
+VERB / 1
+
+rosemary
+NOUN / 1
+
+strafaci
+NOUN / 1
+
+n.
+NOUN / 1
+
+y.
+NOUN / 1
+
+today
+NOUN / 1
+
+handsome
+ADJECTIVE / 1
+
+bachelor
+NOUN / 1
+
+favorite
+ADJECTIVE / 1
+
+date
+NOUN / 1
+
+hollywood's
+NOUN / 1
+
+glamor
+NOUN / 1
+
+gals
+NOUN / 1
+
+simon
+NOUN / 1
+
+danny
+NOUN / 1
+
+fund
+NOUN / 1
+
+filled
+VERB / 1
+
+me
+PRONOUN / 1
+
+low-down
+ADJECTIVE / 1
+
+phonies
+NOUN / 1
+
+using
+VERB / 1
+
+phones
+NOUN / 1
+
+solicit
+VERB / 1
+
+funds
+NOUN / 1
+
+danny's
+NOUN / 1
+
+memphis
+NOUN / 1
+
+emergency
+NOUN / 1
+
+telephone
+NOUN / 1
+VERB / 1
+
+building
+NOUN / 1
+VERB / 1
+
+drive
+NOUN / 1
+VERB / 1
+
+current
+ADJECTIVE / 1
+
+staging
+VERB / 1
+
+big
+ADJECTIVE / 1
+
+nov.
+NOUN / 1
+
+25
+CONJUNCTION / 1
+
+entertain
+VERB / 1
+
+thousands
+NOUN / 1
+
+underprivileged
+ADJECTIVE / 1
+
+kids
+NOUN / 1
+VERB / 1
+
+mail
+VERB / 1
+
+contribs
+NOUN / 1
+
+7599
+CONJUNCTION / 1
+
+anybody
+PRONOUN / 1
+
+solicits
+VERB / 1
+
+phone
+NOUN / 1
+VERB / 1
+
+sure
+ADJECTIVE / 1
+
+dough
+NOUN / 1
+
+above
+ADJECTIVE / 1
+PREPOSITION / 1
+
+olivia
+NOUN / 1
+
+de
+NOUN / 1
+
+havilland
+NOUN / 1
+
+broadway
+NOUN / 1
+
+garson
+NOUN / 1
+
+kanin
+NOUN / 1
+
+season
+NOUN / 1
+
+move
+VERB / 1
+NOUN / 1
+
+gotham
+NOUN / 1
+
+gorgeous
+ADJECTIVE / 1
+
+doris
+NOUN / 1
+
+producer-hubby
+NOUN / 1
+
+marty
+NOUN / 1
+
+melcher
+NOUN / 1
+
+tour
+NOUN / 1
+
+pop
+VERB / 1
+
+u-i
+NOUN / 1
+
+milt
+NOUN / 1
+
+rackmil
+NOUN / 1
+
+carnegie
+NOUN / 1
+
+toast
+VERB / 1
+
+300
+CONJUNCTION / 1
+
+movie
+NOUN / 1
+
+exhibitors
+NOUN / 1
+
+affair
+NOUN / 1
+
+screenings
+NOUN / 1
+
+doris'
+NOUN / 1
+
+whee
+OTHER / 1
+
+people
+NOUN / 1
+
+lovely
+ADJECTIVE / 1
+
+thrush
+NOUN / 1
+
+annamorena
+NOUN / 1
+
+promising
+ADJECTIVE / 1
+
+biz
+NOUN / 1
+
+apply
+VERB / 1
+
+touches
+NOUN / 1
+
+hubby
+NOUN / 1
+
+lenobel's
+NOUN / 1
+
+fur
+NOUN / 1
+PREPOSITION / 1
+
+typical
+ADJECTIVE / 1
+
+touch
+NOUN / 1
+
+sold
+VERB / 1
+
+$10,000
+NOUN / 1
+
+morning
+NOUN / 1
+
+mink
+NOUN / 1
+
+freddie
+NOUN / 1
+
+wacker
+NOUN / 1
+
+frau
+NOUN / 1
+
+jana
+NOUN / 1
+
+mason
+NOUN / 1
+
+ex-singer
+NOUN / 1
+
+honor
+NOUN / 1
+
+wackers'
+NOUN / 1
+
+goodness
+NOUN / 1
+
+sake
+NOUN / 1
+
+emcee
+NOUN / 1
+
+herbert
+NOUN / 1
+
+insists
+VERB / 1
+
+dick
+NOUN / 1
+
+nixon's
+NOUN / 1
+
+campaign
+NOUN / 1
+
+slogan
+NOUN / 1
+
+governor
+NOUN / 1
+
+california
+NOUN / 1
+
+buy
+VERB / 1
+
+candy
+NOUN / 1
+
+town's
+NOUN / 1
+
+worthiest
+ADJECTIVE / 1
+
+charities
+NOUN / 1
+
+bet
+NOUN / 1
+
+darlin'
+ADJECTIVE / 1
+
+dazzler
+NOUN / 1
+
+paree
+NOUN / 1
+
+genevieve
+NOUN / 1
+
+room
+NOUN / 1
+
+dave
+NOUN / 1
+
+trager
+NOUN / 1
+
+showman
+NOUN / 1
+
+boss
+NOUN / 1
+
+pro
+ADJECTIVE / 1
+
+basketball
+NOUN / 1
+
+packers
+NOUN / 1
+
+ticket
+NOUN / 1
+
+holders
+NOUN / 1
+
+jump
+NOUN / 1
+VERB / 1
+
+st.
+NOUN / 1
+
+louis
+NOUN / 1
+
+opener
+NOUN / 1
+
+mentioned
+VERB / 1
+
+ol'
+ADJECTIVE / 1
+
+casey
+NOUN / 1
+
+stengel
+NOUN / 1
+
+takes
+VERB / 1
+
+baseballight
+NOUN / 1
+
+wear
+VERB / 1
+
+uniform
+NOUN / 1
+
+past
+ADJECTIVE / 1
+NOUN / 1
+DETERMINER / 1
+
+present
+ADJECTIVE / 1
+VERB / 1
+
+yankees
+NOUN / 1
+
+dodgers
+NOUN / 1
+
+mets
+NOUN / 1
+
+bernie
+NOUN / 1
+
+kriss
+NOUN / 1
+
+calls
+VERB / 1
+
+bayonet
+NOUN / 1
+
+clashes
+NOUN / 1
+
+berlin's
+NOUN / 1
+
+jotted
+VERB / 1
+
+mad
+ADJECTIVE / 1
+
+dept.
+NOUN / 1
+
+khrush
+NOUN / 1
+
+kremlin
+NOUN / 1
+
+crowd
+NOUN / 1
+
+confident
+ADJECTIVE / 1
+
+contaminating
+VERB / 1
+
+earth's
+NOUN / 1
+
+including
+PREPOSITION / 1
+VERB / 1
+
+via
+PREPOSITION / 1
+
+mighty
+ADJECTIVE / 1
+
+megaton
+NOUN / 1
+
+bombs
+NOUN / 1
+
+peasants
+NOUN / 1
+
+don't
+VERB / 1
+
+know
+VERB / 1
+NOUN / 1
+
+albert
+NOUN / 1
+
+luthuli
+NOUN / 1
+
+awarded
+VERB / 1
+
+nobel
+NOUN / 1
+
+prize
+NOUN / 1
+
+integration
+NOUN / 1
+
+struggles
+NOUN / 1
+
+permission
+NOUN / 1
+
+fly
+VERB / 1
+
+collect
+VERB / 1
+
+hmpf
+OTHER / 1
+
+frothier
+ADJECTIVE / 1
+
+weissmuller
+NOUN / 1
+
+tarzan
+NOUN / 1
+
+telephoned
+VERB / 1
+
+muttered
+VERB / 1
+
+snapped
+VERB / 1
+
+glib
+ADJECTIVE / 1
+
+garrulous
+ADJECTIVE / 1
+
+guy
+NOUN / 1
+
+humor
+NOUN / 1
+
+sidled
+VERB / 1
+
+guttural
+ADJECTIVE / 1
+
+broke
+VERB / 1
+
+frightening
+VERB / 1
+
+yodel
+NOUN / 1
+
+roles
+NOUN / 1
+
+anyone
+PRONOUN / 1
+
+dynamite
+NOUN / 1
+
+flicker
+NOUN / 1
+
+opens
+VERB / 1
+
+popular
+ADJECTIVE / 1
+
+prices
+NOUN / 1
+
+2
+CONJUNCTION / 1
+
+masterful
+ADJECTIVE / 1
+
+making
+NOUN / 1
+VERB / 1
+
+bill
+NOUN / 1
+
+veeck's
+NOUN / 1
+
+health
+NOUN / 1
+
+dynamo
+NOUN / 1
+
+stage
+NOUN / 1
+
+medics
+NOUN / 1
+
+insist
+VERB / 1
+
+rest
+VERB / 1
+NOUN / 1
+
+several
+DETERMINER / 1
+
+months
+NOUN / 1
+
+getting
+VERB / 1
+
+baseball
+NOUN / 1
+
+swim
+NOUN / 1
+VERB / 1
+
+keeps
+VERB / 1
+
+doings
+NOUN / 1
+
+tells
+VERB / 1
+
+misses
+VERB / 1
+
+ticker
+NOUN / 1
+
+boy
+NOUN / 1
+
+jean
+NOUN / 1
+
+fardulli's
+NOUN / 1
+
+local
+ADJECTIVE / 1
+
+import
+VERB / 1
+
+crazy
+ADJECTIVE / 1
+
+start
+VERB / 1
+
+lessons
+NOUN / 1
+
+cheer
+NOUN / 1
+
+francis
+NOUN / 1
+
+lorenz
+NOUN / 1
+
+state
+NOUN / 1
+
+treasurer
+NOUN / 1
+
+probate
+NOUN / 1
+
+advisory
+NOUN / 1
+
+suggestions
+NOUN / 1
+
+handle
+VERB / 1
+
+safety
+NOUN / 1
+
+deposit
+NOUN / 1
+
+boxes
+NOUN / 1
+
+somebody
+PRONOUN / 1
+
+dies
+VERB / 1
+
+vast
+ADJECTIVE / 1
+
+productive
+ADJECTIVE / 1
+
+agricultural
+ADJECTIVE / 1
+
+summer
+NOUN / 1
+
+1960
+CONJUNCTION / 1
+
+bitter
+ADJECTIVE / 1
+
+labor-management
+NOUN / 1
+
+struggle
+NOUN / 1
+
+contestants
+NOUN / 1
+
+economic
+ADJECTIVE / 1
+
+awoc
+NOUN / 1
+
+afl-cio
+NOUN / 1
+
+employers
+NOUN / 1
+
+virtue
+NOUN / 1
+
+legal
+ADJECTIVE / 1
+
+farm
+NOUN / 1
+VERB / 1
+
+placement
+NOUN / 1
+
+program
+NOUN / 1
+
+ourselves
+PRONOUN / 1
+
+pleasant
+ADJECTIVE / 1
+
+position
+NOUN / 1
+
+endeavored
+VERB / 1
+
+neutral
+ADJECTIVE / 1
+
+parties
+NOUN / 1
+
+required
+VERB / 1
+
+rule
+VERB / 1
+
+specific
+ADJECTIVE / 1
+
+situations
+NOUN / 1
+
+arose
+VERB / 1
+
+pleased
+VERB / 1
+
+displeased
+VERB / 1
+
+ruled
+VERB / 1
+
+interpreted
+VERB / 1
+
+decision
+NOUN / 1
+
+implying
+VERB / 1
+
+favoritism
+NOUN / 1
+
+consoled
+VERB / 1
+
+normal
+ADJECTIVE / 1
+
+consequences
+NOUN / 1
+
+adversary
+NOUN / 1
+
+proceeding
+NOUN / 1
+
+disconcerting
+ADJECTIVE / 1
+
+read
+VERB / 1
+
+labor
+NOUN / 1
+
+weekly
+NOUN / 1
+ADJECTIVE / 1
+
+perluss
+NOUN / 1
+
+growers
+NOUN / 1
+
+confronted
+VERB / 1
+
+growers'
+NOUN / 1
+
+publication
+NOUN / 1
+
+states
+VERB / 1
+
+recognizes
+VERB / 1
+
+phony
+ADJECTIVE / 1
+
+trumped-up
+ADJECTIVE / 1
+
+strikes
+NOUN / 1
+
+number
+NOUN / 1
+
+sporadic
+ADJECTIVE / 1
+
+organize
+VERB / 1
+
+workers
+NOUN / 1
+
+sucess
+NOUN / 1
+
+variety
+NOUN / 1
+
+reasons
+NOUN / 1
+
+financed
+VERB / 1
+
+experienced
+VERB / 1
+
+support
+NOUN / 1
+VERB / 1
+
+whole
+NOUN / 1
+ADJECTIVE / 1
+
+pattern
+NOUN / 1
+
+organizing
+VERB / 1
+
+full
+ADJECTIVE / 1
+
+supplied
+VERB / 1
+
+moral
+ADJECTIVE / 1
+
+skillful
+ADJECTIVE / 1
+
+financial
+ADJECTIVE / 1
+
+resources
+NOUN / 1
+
+personal
+ADJECTIVE / 1
+
+sympathies
+NOUN / 1
+
+lie
+VERB / 1
+
+changed
+VERB / 1
+
+ignore
+VERB / 1
+
+result
+NOUN / 1
+
+organizational
+ADJECTIVE / 1
+
+effort
+NOUN / 1
+
+traditional
+ADJECTIVE / 1
+
+weapons
+NOUN / 1
+
+picket
+NOUN / 1
+
+considerable
+ADJECTIVE / 1
+
+wages
+NOUN / 1
+
+union
+NOUN / 1
+
+select
+VERB / 1
+
+management
+NOUN / 1
+
+strategy
+NOUN / 1
+
+selective
+ADJECTIVE / 1
+
+say
+VERB / 1
+
+concentrate
+VERB / 1
+
+crop
+NOUN / 1
+
+strategic
+ADJECTIVE / 1
+
+broadside
+ADJECTIVE / 1
+
+throughout
+PREPOSITION / 1
+
+involved
+VERB / 1
+
+disputes
+NOUN / 1
+
+referral
+NOUN / 1
+
+obligations
+NOUN / 1
+
+covered
+VERB / 1
+
+unemployment
+NOUN / 1
+
+insurance
+NOUN / 1
+
+arise
+VERB / 1
+
+regarding
+PREPOSITION / 1
+
+payments
+NOUN / 1
+
+dispute
+NOUN / 1
+
+provision
+NOUN / 1
+
+within
+PREPOSITION / 1
+
+realm
+NOUN / 1
+
+possibility
+NOUN / 1
+
+referrals
+NOUN / 1
+
+establishment
+NOUN / 1
+
+exists
+VERB / 1
+
+mexican
+ADJECTIVE / 1
+
+nationals
+NOUN / 1
+
+employed
+VERB / 1
+
+ranch
+NOUN / 1
+
+us
+PRONOUN / 1
+
+remember
+VERB / 1
+
+think
+VERB / 1
+
+milestone
+NOUN / 1
+
+services
+NOUN / 1
+
+living
+VERB / 1
+
+continuing
+VERB / 1
+
+operating
+VERB / 1
+
+system
+NOUN / 1
+
+provisions
+NOUN / 1
+
+accepted
+VERB / 1
+
+enacting
+VERB / 1
+
+2051
+CONJUNCTION / 1
+
+accepts
+VERB / 1
+
+observe
+VERB / 1
+
+comply
+VERB / 1
+
+requirements
+NOUN / 1
+
+act
+NOUN / 1
+
+respect
+NOUN / 1
+
+carrying
+VERB / 1
+
+authorized
+VERB / 1
+
+directed
+VERB / 1
+
+provide
+VERB / 1
+
+giving
+NOUN / 1
+VERB / 1
+
+notice
+NOUN / 1
+
+lock-outs
+NOUN / 1
+
+applicants
+NOUN / 1
+
+employment
+NOUN / 1
+
+empower
+VERB / 1
+
+adopt
+VERB / 1
+
+regulations
+NOUN / 1
+
+done
+VERB / 1
+
+pertinent
+ADJECTIVE / 1
+
+regulation
+NOUN / 1
+
+purposes
+NOUN / 1
+
+follows
+VERB / 1
+
+person
+NOUN / 1
+
+filling
+NOUN / 1
+VERB / 1
+
+aid
+VERB / 1
+
+job
+NOUN / 1
+
+1
+CONJUNCTION / 1
+
+vacant
+ADJECTIVE / 1
+
+former
+DETERMINER / 1
+
+occupant
+NOUN / 1
+
+locked
+VERB / 1
+
+issue
+NOUN / 1
+VERB / 1
+
+positions
+NOUN / 1
+
+subparagraph
+NOUN / 1
+
+paragraph
+NOUN / 1
+
+individual
+NOUN / 1
+
+written
+VERB / 1
+
+analyzing
+VERB / 1
+
+sentence
+NOUN / 1
+
+permits
+VERB / 1
+
+certain
+DETERMINER / 1
+ADJECTIVE / 1
+
+packing
+VERB / 1
+
+shed
+NOUN / 1
+VERB / 1
+
+fields
+NOUN / 1
+
+involving
+PREPOSITION / 1
+
+fieldwork
+NOUN / 1
+
+refer
+VERB / 1
+
+troublesome
+ADJECTIVE / 1
+
+cases
+NOUN / 1
+
+arisen
+VERB / 1
+
+part
+NOUN / 1
+
+prohibits
+VERB / 1
+
+condition
+NOUN / 1
+
+employer
+NOUN / 1
+
+representatives
+NOUN / 1
+
+beyond
+PREPOSITION / 1
+
+authority
+NOUN / 1
+
+prohibition
+NOUN / 1
+
+grounds
+NOUN / 1
+
+requires
+VERB / 1
+
+prospective
+ADJECTIVE / 1
+
+worker
+NOUN / 1
+
+matter
+NOUN / 1
+
+got
+VERB / 1
+
+courts
+NOUN / 1
+
+early
+ADJECTIVE / 1
+
+digiorgio
+NOUN / 1
+
+pear
+NOUN / 1
+
+orchards
+NOUN / 1
+
+jobs
+NOUN / 1
+
+clause
+NOUN / 1
+
+seeking
+VERB / 1
+
+continue
+VERB / 1
+
+harvest
+NOUN / 1
+
+challenged
+VERB / 1
+
+right
+NOUN / 1
+
+cease
+VERB / 1
+
+relief
+NOUN / 1
+
+issued
+VERB / 1
+
+temporary
+ADJECTIVE / 1
+
+restraining
+VERB / 1
+
+directing
+VERB / 1
+
+resume
+VERB / 1
+
+obeyed
+VERB / 1
+
+request
+NOUN / 1
+
+jurisdiction
+NOUN / 1
+
+removed
+VERB / 1
+
+refused
+VERB / 1
+
+whereupon
+CONJUNCTION / 1
+
+permanent
+ADJECTIVE / 1
+
+referring
+VERB / 1
+
+case
+NOUN / 1
+
+bowers
+NOUN / 1
+
+county
+NOUN / 1
+
+orders
+NOUN / 1
+
+argued
+VERB / 1
+
+i
+PRONOUN / 1
+
+decisions
+NOUN / 1
+
+conclusive
+ADJECTIVE / 1
+
+statewide
+ADJECTIVE / 1
+
+instructions
+NOUN / 1
+
+accept
+VERB / 1
+
+view
+NOUN / 1
+
+lawyer
+NOUN / 1
+
+administrator
+NOUN / 1
+
+considerations
+NOUN / 1
+
+juridical
+ADJECTIVE / 1
+
+principle
+NOUN / 1
+
+does
+VERB / 1
+
+constitute
+VERB / 1
+
+binding
+VERB / 1
+
+precedent
+NOUN / 1
+
+appealed
+VERB / 1
+
+action
+NOUN / 1
+
+heard
+VERB / 1
+
+contrary
+NOUN / 1
+
+established
+VERB / 1
+
+received
+VERB / 1
+
+authoritative
+ADJECTIVE / 1
+
+interpretation
+NOUN / 1
+
+confidence
+NOUN / 1
+
+policy
+NOUN / 1
+
+overthrown
+VERB / 1
+
+compelling
+ADJECTIVE / 1
+
+am
+VERB / 1
+
+nullify
+VERB / 1
+
+company
+NOUN / 1
+
+concurs
+VERB / 1
+
+filed
+VERB / 1
+
+appeal
+NOUN / 1
+
+considering
+VERB / 1
+
+relating
+VERB / 1
+
+interstate
+ADJECTIVE / 1
+
+recruitment
+NOUN / 1
+
+opinion
+NOUN / 1
+
+sustaining
+VERB / 1
+
+legislative
+ADJECTIVE / 1
+
+intent
+NOUN / 1
+ADJECTIVE / 1
+
+defeated
+VERB / 1
+
+substantial
+ADJECTIVE / 1
+
+limited
+VERB / 1
+
+regulatory
+ADJECTIVE / 1
+
+administrative
+ADJECTIVE / 1
+
+implications
+NOUN / 1
+
+appeals
+NOUN / 1
+
+leave
+VERB / 1
+
+hanging
+VERB / 1
+
+midair
+NOUN / 1
+
+ramifications
+NOUN / 1
+
+enormous
+ADJECTIVE / 1
+
+applied
+VERB / 1
+
+nonagricultural
+ADJECTIVE / 1
+
+might
+NOUN / 1
+
+acting
+VERB / 1
+
+strikebreakers
+NOUN / 1
+
+dominant
+ADJECTIVE / 1
+
+presumptuous
+ADJECTIVE / 1
+
+settle
+VERB / 1
+
+judicial
+ADJECTIVE / 1
+
+finality
+NOUN / 1
+
+achieved
+VERB / 1
+
+jeopardy
+NOUN / 1
+
+compliance
+NOUN / 1
+
+avenues
+NOUN / 1
+
+opened
+VERB / 1
+
+inclined
+VERB / 1
+
+notify
+VERB / 1
+
+noncompliance
+NOUN / 1
+
+hearing
+NOUN / 1
+
+finding
+NOUN / 1
+
+clear
+ADJECTIVE / 1
+
+withdrawal
+NOUN / 1
+
+$11
+NOUN / 1
+
+million
+CONJUNCTION / 1
+
+finance
+VERB / 1
+
+corollary
+NOUN / 1
+
+operation
+NOUN / 1
+
+problem
+NOUN / 1
+
+defining
+VERB / 1
+
+defined
+VERB / 1
+
+include
+VERB / 1
+
+elements
+NOUN / 1
+
+specifications
+NOUN / 1
+
+membership
+NOUN / 1
+
+broader
+ADJECTIVE / 1
+
+connotation
+NOUN / 1
+
+wage
+NOUN / 1
+
+demands
+NOUN / 1
+VERB / 1
+
+associated
+VERB / 1
+
+mechanics
+NOUN / 1
+
+uncertainty
+NOUN / 1
+
+definition
+NOUN / 1
+
+solicited
+VERB / 1
+
+advised
+VERB / 1
+
+narrower
+ADJECTIVE / 1
+
+gayety
+NOUN / 1
+
+6
+CONJUNCTION / 1
+
+reputation
+NOUN / 1
+
+fun
+NOUN / 1
+
+year's
+NOUN / 1
+
+promises
+VERB / 1
+
+fine
+ADJECTIVE / 1
+
+tradition
+NOUN / 1
+
+grinsfelder
+NOUN / 1
+
+louisiana
+NOUN / 1
+
+city
+NOUN / 1
+
+food
+NOUN / 1
+
+colorful
+ADJECTIVE / 1
+
+hospitality
+NOUN / 1
+
+guests
+NOUN / 1
+
+philmont
+NOUN / 1
+
+offer
+VERB / 1
+
+working
+VERB / 1
+
+prospects
+NOUN / 1
+
+keeping
+VERB / 1
+
+surprises
+NOUN / 1
+
+hats
+NOUN / 1
+
+tell
+VERB / 1
+
+excitement
+NOUN / 1
+
+festivities
+NOUN / 1
+
+jazz
+NOUN / 1
+
+combo
+NOUN / 1
+
+hours
+NOUN / 1
+
+lester
+NOUN / 1
+
+lanin's
+NOUN / 1
+
+orchestra
+NOUN / 1
+
+dancing
+NOUN / 1
+VERB / 1
+
+louchheim
+NOUN / 1
+
+phase
+NOUN / 1
+
+globetrotter
+NOUN / 1
+
+knows
+VERB / 1
+
+bad
+ADJECTIVE / 1
+
+month
+NOUN / 1
+
+r's
+NOUN / 1
+
+oysters
+NOUN / 1
+
+lots
+NOUN / 1
+
+specialties
+NOUN / 1
+
+tried
+VERB / 1
+
+chef
+NOUN / 1
+
+selected
+VERB / 1
+
+treated
+VERB / 1
+
+scenic
+ADJECTIVE / 1
+
+effects
+NOUN / 1
+
+flowers
+NOUN / 1
+
+reproductions
+NOUN / 1
+
+buildings
+NOUN / 1
+
+grillwork
+NOUN / 1
+
+things
+NOUN / 1
+
+k.
+NOUN / 1
+
+cohen
+NOUN / 1
+
+assist
+NOUN / 1
+
+van
+NOUN / 1
+
+hollander
+NOUN / 1
+
+display
+NOUN / 1
+
+gala
+NOUN / 1
+
+annual
+ADJECTIVE / 1
+
+bundle
+NOUN / 1
+
+means
+VERB / 1
+NOUN / 1
+
+admission
+NOUN / 1
+
+clothing
+NOUN / 1
+
+contributions
+NOUN / 1
+
+household
+NOUN / 1
+
+equipment
+NOUN / 1
+
+bric-a-brac
+NOUN / 1
+
+stock
+VERB / 1
+NOUN / 1
+
+shelves
+NOUN / 1
+
+shop's
+NOUN / 1
+
+headquarters
+NOUN / 1
+
+1213
+CONJUNCTION / 1
+
+convenience
+NOUN / 1
+
+centers
+NOUN / 1
+
+suburbs
+NOUN / 1
+
+donations
+NOUN / 1
+
+deposited
+VERB / 1
+
+addition
+NOUN / 1
+
+bundles
+NOUN / 1
+
+pay
+VERB / 1
+
+cost
+NOUN / 1
+VERB / 1
+
+dinners
+NOUN / 1
+
+welcomed
+VERB / 1
+
+bernhard
+NOUN / 1
+
+blumenthal
+NOUN / 1
+
+city's
+NOUN / 1
+
+successful
+ADJECTIVE / 1
+
+fund-raisers
+NOUN / 1
+
+competence
+NOUN / 1
+
+indicated
+VERB / 1
+
+totals
+VERB / 1
+
+$840,000
+NOUN / 1
+
+feminine
+ADJECTIVE / 1
+
+men
+NOUN / 1
+
+husbands
+NOUN / 1
+
+taken
+VERB / 1
+
+glazer
+NOUN / 1
+
+committee
+NOUN / 1
+
+responsibility
+NOUN / 1
+
+staffing
+VERB / 1
+
+shop
+NOUN / 1
+
+theodore
+NOUN / 1
+
+kapnek
+NOUN / 1
+
+newburger
+NOUN / 1
+
+hostesses
+NOUN / 1
+
+arthur
+NOUN / 1
+
+loeb
+NOUN / 1
+
+arrangements
+NOUN / 1
+
+lichtenstein
+NOUN / 1
+
+rose
+NOUN / 1
+VERB / 1
+
+secretarial
+ADJECTIVE / 1
+
+duties
+NOUN / 1
+
+ralph
+NOUN / 1
+
+taussig
+NOUN / 1
+
+aides
+NOUN / 1
+
+lewis
+NOUN / 1
+
+kaufnabb
+NOUN / 1
+
+samuel
+NOUN / 1
+
+weinberg
+NOUN / 1
+
+allan
+NOUN / 1
+
+goodman
+NOUN / 1
+
+controllers
+NOUN / 1
+
+paul
+NOUN / 1
+
+stone
+NOUN / 1
+
+quell
+NOUN / 1
+
+charge
+NOUN / 1
+
+admittance
+NOUN / 1
+
+9
+CONJUNCTION / 1
+
+besides
+PREPOSITION / 1
+
+facilities
+NOUN / 1
+
+hold
+VERB / 1
+
+pre-fair
+ADJECTIVE / 1
+
+pink
+ADJECTIVE / 1
+
+parade
+NOUN / 1
+
+dessert
+NOUN / 1
+
+bridge
+NOUN / 1
+
+monday
+NOUN / 1
+
+april
+NOUN / 1
+
+17
+CONJUNCTION / 1
+
+chapel
+NOUN / 1
+
+assembly
+NOUN / 1
+
+robert
+NOUN / 1
+
+o.
+NOUN / 1
+
+spurdle
+NOUN / 1
+
+includes
+VERB / 1
+
+moody
+NOUN / 1
+
+wilkinson
+NOUN / 1
+
+ethel
+NOUN / 1
+
+coles
+NOUN / 1
+
+harold
+NOUN / 1
+
+lacy
+NOUN / 1
+
+chance
+NOUN / 1
+
+2d
+NUMBER / 1
+
+harcourt
+NOUN / 1
+
+trimble
+NOUN / 1
+
+moller
+NOUN / 1
+
+zeising
+NOUN / 1
+
+kilhour
+NOUN / 1
+
+hughes
+NOUN / 1
+
+cauffman
+NOUN / 1
+
+baringer
+NOUN / 1
+
+clyde
+NOUN / 1
+
+newman
+NOUN / 1
+
+natalie
+NOUN / 1
+
+collett
+NOUN / 1
+
+newbold
+NOUN / 1
+
+commentator
+NOUN / 1
+
+models
+NOUN / 1
+
+baird
+NOUN / 1
+
+meyle
+NOUN / 1
+
+hole
+NOUN / 1
+
+harrity
+NOUN / 1
+
+kloman
+NOUN / 1
+
+wolcott
+NOUN / 1
+
+wheeler
+NOUN / 1
+
+a
+NOUN / 1
+
+boyd
+NOUN / 1
+
+mrs
+NOUN / 1
+
+vernon
+NOUN / 1
+
+putt
+NOUN / 1
+
+clifton
+NOUN / 1
+
+lisle
+NOUN / 1
+
+third
+NUMBER / 1
+
+decades
+NOUN / 1
+
+honorary
+ADJECTIVE / 1
+
+invites
+VERB / 1
+
+boys
+NOUN / 1
+
+camp
+VERB / 1
+
+estate
+NOUN / 1
+
+ends
+NOUN / 1
+
+proud
+ADJECTIVE / 1
+
+camping-out
+ADJECTIVE / 1
+
+year-round
+ADJECTIVE / 1
+
+schedule
+NOUN / 1
+
+sub-zero
+NOUN / 1
+
+temperatures
+NOUN / 1
+
+registered
+VERB / 1
+
+worry
+VERB / 1
+
+mothers
+NOUN / 1
+
+love
+VERB / 1
+NOUN / 1
+
+cotty
+NOUN / 1
+
+felske
+NOUN / 1
+
+smythe
+NOUN / 1
+
+posters
+NOUN / 1
+
+invitation
+NOUN / 1
+
+arrange
+VERB / 1
+
+exhibit
+NOUN / 1
+
+sale
+NOUN / 1
+
+paintings
+NOUN / 1
+
+sculpture
+NOUN / 1
+
+preview
+NOUN / 1
+
+sponsors
+NOUN / 1
+
+artists
+NOUN / 1
+
+following
+VERB / 1
+
+proceeds
+NOUN / 1
+VERB / 1
+
+section
+NOUN / 1
+
+further
+VERB / 1
+DETERMINER / 1
+ADJECTIVE / 1
+
+science
+NOUN / 1
+
+education
+NOUN / 1
+
+social
+ADJECTIVE / 1
+
+national
+ADJECTIVE / 1
+
+levels
+NOUN / 1
+
+monte
+NOUN / 1
+
+tyson
+NOUN / 1
+
+100
+CONJUNCTION / 1
+
+included
+VERB / 1
+
+exhibition
+NOUN / 1
+
+marc
+NOUN / 1
+
+shoettle
+NOUN / 1
+
+ben
+NOUN / 1
+
+shahn
+NOUN / 1
+
+nicholas
+NOUN / 1
+
+marsicano
+NOUN / 1
+
+alfred
+NOUN / 1
+
+loen
+NOUN / 1
+
+milton
+NOUN / 1
+
+avery
+NOUN / 1
+
+agreed
+VERB / 1
+
+portrait
+NOUN / 1
+
+family
+NOUN / 1
+
+wins
+VERB / 1
+
+door
+NOUN / 1
+
+sixth
+NUMBER / 1
+
+calendar
+NOUN / 1
+
+originated
+VERB / 1
+
+units
+NOUN / 1
+
+combined
+VERB / 1
+
+form
+VERB / 1
+
+fund-raiser
+NOUN / 1
+
+jerome
+NOUN / 1
+
+blum
+NOUN / 1
+
+meyer
+NOUN / 1
+
+schultz
+NOUN / 1
+
+co-chairmen
+NOUN / 1
+
+assisting
+VERB / 1
+
+chairmen
+NOUN / 1
+
+various
+ADJECTIVE / 1
+
+committees
+NOUN / 1
+
+alvin
+NOUN / 1
+
+leonard
+NOUN / 1
+
+malmud
+NOUN / 1
+
+fernberger
+NOUN / 1
+
+cushman
+NOUN / 1
+
+berton
+NOUN / 1
+
+korman
+NOUN / 1
+
+rosen
+NOUN / 1
+
+jacques
+NOUN / 1
+
+zinman
+NOUN / 1
+
+evelyn
+NOUN / 1
+
+i.
+NOUN / 1
+
+kamens
+NOUN / 1
+
+langsdorf
+NOUN / 1
+
+liss
+NOUN / 1
+
+gordon
+NOUN / 1
+
+blumberg
+NOUN / 1
+
+oscar
+NOUN / 1
+
+bregman
+NOUN / 1
+
+kershbaum
+NOUN / 1
+
+sabol
+NOUN / 1
+
+volney
+NOUN / 1
+
+ludwick
+NOUN / 1
+
+evans
+NOUN / 1
+
+rockhall
+NOUN / 1
+
+md.
+NOUN / 1
+
+app
+NOUN / 1
+
+tuesday
+NOUN / 1
+
+voorhees
+NOUN / 1
+
+anderson
+NOUN / 1
+
+entertained
+VERB / 1
+
+luncheon
+NOUN / 1
+
+coulson
+NOUN / 1
+
+morris
+NOUN / 1
+
+son-in-law
+NOUN / 1
+
+glennon
+NOUN / 1
+
+spend
+VERB / 1
+
+days
+NOUN / 1
+
+brigantine
+NOUN / 1
+
+janssen
+NOUN / 1
+
+announce
+VERB / 1
+
+birth
+NOUN / 1
+
+patricia
+NOUN / 1
+
+lynn
+NOUN / 1
+
+marella
+NOUN / 1
+
+mary
+NOUN / 1
+
+ann
+NOUN / 1
+
+orcutt
+NOUN / 1
+
+donald
+NOUN / 1
+
+eileen
+NOUN / 1
+
+grant
+NOUN / 1
+
+spending
+VERB / 1
+
+visiting
+VERB / 1
+
+florida
+NOUN / 1
+
+heinze
+NOUN / 1
+
+entertaining
+VERB / 1
+
+lehner
+NOUN / 1
+
+vienna
+NOUN / 1
+
+ingo
+NOUN / 1
+
+dussa
+NOUN / 1
+
+dusseldorf
+NOUN / 1
+
+germany
+NOUN / 1
+
+bietnar
+NOUN / 1
+
+haaek
+NOUN / 1
+
+brelin
+NOUN / 1
+
+hoaps
+NOUN / 1
+
+mitchell
+NOUN / 1
+
+anne
+NOUN / 1
+
+visit
+VERB / 1
+
+clearwater
+NOUN / 1
+
+warren
+NOUN / 1
+
+taylor
+NOUN / 1
+
+usn.
+NOUN / 1
+
+greenwich
+NOUN / 1
+
+easter
+NOUN / 1
+
+latter's
+NOUN / 1
+
+walbridge
+NOUN / 1
+
+deforest
+NOUN / 1
+
+emmert
+NOUN / 1
+
+ashman
+NOUN / 1
+
+temple
+NOUN / 1
+
+pa.
+NOUN / 1
+
+merner
+NOUN / 1
+
+wednesday
+NOUN / 1
+
+brown
+NOUN / 1
+
+bermuda
+NOUN / 1
+
+godwin
+NOUN / 1
+
+vieth
+NOUN / 1
+
+susan
+NOUN / 1
+
+conrad
+NOUN / 1
+
+wall
+NOUN / 1
+
+nell
+NOUN / 1
+
+kennedy
+NOUN / 1
+
+celebrated
+VERB / 1
+
+february
+NOUN / 1
+
+graduated
+VERB / 1
+
+louise
+NOUN / 1
+
+mcgehee
+NOUN / 1
+
+attending
+VERB / 1
+
+wellesley
+NOUN / 1
+
+mass.
+NOUN / 1
+
+stella
+NOUN / 1
+
+hayward
+NOUN / 1
+
+tulane
+NOUN / 1
+
+delta
+NOUN / 1
+
+kappa
+NOUN / 1
+
+epsilon
+NOUN / 1
+
+fraternity
+NOUN / 1
+
+comus
+NOUN / 1
+
+shrove
+NOUN / 1
+
+midnight
+NOUN / 1
+
+ballroom
+NOUN / 1
+
+downtown
+NOUN / 1
+
+balls
+NOUN / 1
+
+rex
+NOUN / 1
+
+mcconnell
+NOUN / 1
+
+raymond
+NOUN / 1
+
+walker
+NOUN / 1
+
+hosts
+NOUN / 1
+
+walkers
+NOUN / 1
+
+honoring
+VERB / 1
+
+mcconnell's
+NOUN / 1
+
+debutante
+NOUN / 1
+
+barbara
+NOUN / 1
+
+williams
+NOUN / 1
+
+lady
+NOUN / 1
+
+hardy
+NOUN / 1
+
+feted
+VERB / 1
+
+hostess
+NOUN / 1
+
+edwin
+NOUN / 1
+
+socola
+NOUN / 1
+
+waveland
+NOUN / 1
+
+miss.
+NOUN / 1
+
+vieux
+NOUN / 1
+
+carre
+NOUN / 1
+
+restaurant
+NOUN / 1
+
+richmond
+NOUN / 1
+
+honoree
+NOUN / 1
+
+dane
+NOUN / 1
+
+katherine
+NOUN / 1
+
+vickery
+NOUN / 1
+
+attends
+VERB / 1
+
+rejoin
+VERB / 1
+
+eugene
+NOUN / 1
+
+achaeans
+NOUN / 1
+
+masquerade
+NOUN / 1
+
+margaret
+NOUN / 1
+
+pierson
+NOUN / 1
+
+chosen
+VERB / 1
+
+presented
+VERB / 1
+
+ladies
+NOUN / 1
+
+waiting
+VERB / 1
+
+clayton
+NOUN / 1
+
+nairne
+NOUN / 1
+
+eleanor
+NOUN / 1
+
+eustis
+NOUN / 1
+
+chapman
+NOUN / 1
+
+irwin
+NOUN / 1
+
+leatherman
+NOUN / 1
+
+robinsonville
+NOUN / 1
+
+helene
+NOUN / 1
+
+rowley
+NOUN / 1
+
+large
+ADJECTIVE / 1
+
+municipal
+ADJECTIVE / 1
+
+hall
+NOUN / 1
+
+color
+NOUN / 1
+
+shown
+VERB / 1
+
+bright
+ADJECTIVE / 1
+
+array
+NOUN / 1
+
+chic
+ADJECTIVE / 1
+
+ballgowns
+NOUN / 1
+
+worn
+VERB / 1
+
+participating
+VERB / 1
+
+maskers'
+NOUN / 1
+
+dances
+NOUN / 1
+
+queen
+NOUN / 1
+
+chose
+VERB / 1
+
+white
+ADJECTIVE / 1
+
+brocade
+NOUN / 1
+
+slim
+ADJECTIVE / 1
+NOUN / 1
+
+panels
+NOUN / 1
+
+tomato-red
+ADJECTIVE / 1
+
+green
+ADJECTIVE / 1
+
+satin
+NOUN / 1
+
+extending
+VERB / 1
+
+down
+PREPOSITION / 1
+
+jordan
+NOUN / 1
+
+taffeta
+NOUN / 1
+
+frock
+NOUN / 1
+
+skirt
+NOUN / 1
+
+fringed
+VERB / 1
+
+tiers
+NOUN / 1
+
+crimson
+ADJECTIVE / 1
+
+silk
+NOUN / 1
+
+slippers
+NOUN / 1
+
+maids
+NOUN / 1
+
+deep
+ADJECTIVE / 1
+
+greenish
+ADJECTIVE / 1
+
+lace
+NOUN / 1
+
+fenwick
+NOUN / 1
+
+maid
+NOUN / 1
+
+ashes
+NOUN / 1
+
+roses
+NOUN / 1
+
+slipper
+NOUN / 1
+
+feringa
+NOUN / 1
+
+achaeans'
+NOUN / 1
+
+eggshell
+NOUN / 1
+
+filmy
+ADJECTIVE / 1
+
+dress
+NOUN / 1
+
+decolletage
+NOUN / 1
+
+trimmed
+VERB / 1
+
+edging
+NOUN / 1
+
+tulle
+NOUN / 1
+
+reily's
+NOUN / 1
+
+olive-green
+ADJECTIVE / 1
+
+street
+NOUN / 1
+
+length
+NOUN / 1
+
+embroidered
+VERB / 1
+
+bodice
+NOUN / 1
+
+gold
+ADJECTIVE / 1
+
+threads
+NOUN / 1
+
+golden
+ADJECTIVE / 1
+
+sequins
+NOUN / 1
+
+beads
+NOUN / 1
+
+eight
+CONJUNCTION / 1
+
+acquired
+VERB / 1
+
+pool
+NOUN / 1
+
+enlightening
+ADJECTIVE / 1
+
+vigorous
+ADJECTIVE / 1
+
+rigorous
+ADJECTIVE / 1
+
+unrewarding
+ADJECTIVE / 1
+
+learned
+VERB / 1
+
+lot
+NOUN / 1
+
+dash
+NOUN / 1
+
+hydrochemistry
+NOUN / 1
+
+plumbing
+NOUN / 1
+
+pump-priming
+NOUN / 1
+
+grounding
+NOUN / 1
+
+principles
+NOUN / 1
+
+mailed-fist-in-velvet-glove
+ADJECTIVE / 1
+
+diplomacy
+NOUN / 1
+
+experts
+NOUN / 1
+
+fine-feathered
+ADJECTIVE / 1
+
+yard
+NOUN / 1
+
+birds
+NOUN / 1
+
+lessened
+VERB / 1
+
+built
+VERB / 1
+
+pools
+NOUN / 1
+
+diluting
+VERB / 1
+
+spectacular
+ADJECTIVE / 1
+
+attractions
+NOUN / 1
+
+cling
+VERB / 1
+
+owner
+NOUN / 1
+
+innate
+ADJECTIVE / 1
+
+generosity
+NOUN / 1
+
+prompts
+VERB / 1
+
+share
+VERB / 1
+
+errors
+NOUN / 1
+
+solutions
+NOUN / 1
+
+plunge
+NOUN / 1
+
+pious
+ADJECTIVE / 1
+
+hope
+NOUN / 1
+VERB / 1
+
+profit
+VERB / 1
+NOUN / 1
+
+experience
+NOUN / 1
+
+everything
+PRONOUN / 1
+
+contribute
+VERB / 1
+
+difficulties
+NOUN / 1
+
+speak
+VERB / 1
+
+varying
+VERB / 1
+
+viewpoints
+NOUN / 1
+
+wooded
+ADJECTIVE / 1
+
+field
+NOUN / 1
+
+hill
+NOUN / 1
+
+dreaming
+VERB / 1
+
+shimmering
+VERB / 1
+
+outside
+PREPOSITION / 1
+
+windows
+NOUN / 1
+
+fill
+VERB / 1
+
+picture
+NOUN / 1
+
+damp
+ADJECTIVE / 1
+
+towels
+NOUN / 1
+
+squashed
+VERB / 1
+
+tubes
+NOUN / 1
+
+suntan
+NOUN / 1
+
+oil
+NOUN / 1
+
+semi-inflated
+ADJECTIVE / 1
+
+plastic
+NOUN / 1
+
+toys
+NOUN / 1
+
+likely
+ADJECTIVE / 1
+
+proximity
+NOUN / 1
+
+main
+ADJECTIVE / 1
+
+quarters
+NOUN / 1
+
+violation
+NOUN / 1
+
+privacy
+NOUN / 1
+
+annoying
+ADJECTIVE / 1
+
+noise
+NOUN / 1
+
+let's-make-your-house-our-club
+ADJECTIVE / 1
+
+attitude
+NOUN / 1
+
+out-of-sight
+NOUN / 1
+
+lead
+VERB / 1
+
+out-of-mind
+NOUN / 1
+
+trek
+NOUN / 1
+
+dilemma
+NOUN / 1
+
+picturesque
+ADJECTIVE / 1
+
+sylvan
+ADJECTIVE / 1
+
+pond
+NOUN / 1
+
+forest
+NOUN / 1
+
+leaf
+NOUN / 1
+
+root
+NOUN / 1
+
+hazard
+NOUN / 1
+
+well-being
+NOUN / 1
+
+yet
+CONJUNCTION / 1
+
+grassy
+ADJECTIVE / 1
+
+turn
+VERB / 1
+NOUN / 1
+
+floating
+VERB / 1
+
+lawn
+NOUN / 1
+
+grass
+NOUN / 1
+
+mowed
+VERB / 1
+
+choosing
+VERB / 1
+
+sensible
+ADJECTIVE / 1
+
+how
+OTHER / 1
+
+appealing
+ADJECTIVE / 1
+
+weather
+NOUN / 1
+
+colder
+ADJECTIVE / 1
+
+climes
+NOUN / 1
+
+unglamorous
+ADJECTIVE / 1
+
+salt
+NOUN / 1
+
+hay
+NOUN / 1
+
+ice
+NOUN / 1
+
+floe
+NOUN / 1
+
+studded
+VERB / 1
+
+logs
+NOUN / 1
+
+neat
+ADJECTIVE / 1
+
+plastic-covered
+ADJECTIVE / 1
+
+joy
+NOUN / 1
+
+behold
+VERB / 1
+
+recommend
+VERB / 1
+
+patented
+VERB / 1
+
+covers
+NOUN / 1
+
+prevent
+VERB / 1
+
+junk
+NOUN / 1
+
+flora
+NOUN / 1
+
+fauna
+NOUN / 1
+
+wintering
+VERB / 1
+
+location
+NOUN / 1
+
+perfect
+ADJECTIVE / 1
+
+counts
+NOUN / 1
+
+dictated
+VERB / 1
+
+extent
+NOUN / 1
+
+shape
+NOUN / 1
+
+size
+NOUN / 1
+
+space
+NOUN / 1
+
+restful
+ADJECTIVE / 1
+
+immediate
+ADJECTIVE / 1
+
+environs
+NOUN / 1
+
+neither
+CONJUNCTION / 1
+
+greensward
+NOUN / 1
+
+woods
+NOUN / 1
+
+pavement
+NOUN / 1
+
+solve
+VERB / 1
+
+owning
+NOUN / 1
+
+involve
+VERB / 1
+
+pertaining
+VERB / 1
+
+coping
+VERB / 1
+
+discipline
+NOUN / 1
+
+yourself
+PRONOUN / 1
+
+talked
+VERB / 1
+
+transoceanic
+ADJECTIVE / 1
+
+jet
+NOUN / 1
+
+mud-sweat-and-tears
+ADJECTIVE / 1
+
+construction
+NOUN / 1
+
+period
+NOUN / 1
+
+solaced
+VERB / 1
+
+dips
+NOUN / 1
+
+home-comings
+NOUN / 1
+
+cool
+ADJECTIVE / 1
+
+collected
+VERB / 1
+
+laid
+VERB / 1
+
+lord
+NOUN / 1
+
+master's
+NOUN / 1
+
+delectation
+NOUN / 1
+
+pool-side
+NOUN / 1
+
+gatherings
+NOUN / 1
+
+rosy
+ADJECTIVE / 1
+
+fantasies
+NOUN / 1
+
+witnessing
+VERB / 1
+
+population
+NOUN / 1
+
+explosion
+NOUN / 1
+
+backyards
+NOUN / 1
+
+respective
+ADJECTIVE / 1
+
+quadrupled
+VERB / 1
+
+lien
+NOUN / 1
+
+park
+NOUN / 1
+
+sharks
+NOUN / 1
+
+pool-owners
+NOUN / 1
+
+perpetual
+ADJECTIVE / 1
+
+handymen
+NOUN / 1
+
+step
+NOUN / 1
+
+clothes
+NOUN / 1
+
+naive
+ADJECTIVE / 1
+
+results
+NOUN / 1
+
+impulsive
+ADJECTIVE / 1
+
+unexpected
+ADJECTIVE / 1
+
+unsettling
+VERB / 1
+
+obvious
+ADJECTIVE / 1
+
+rules
+NOUN / 1
+
+popularity
+NOUN / 1
+
+ratings
+NOUN / 1
+
+subnormal
+ADJECTIVE / 1
+
+unabashed
+ADJECTIVE / 1
+
+collusion
+NOUN / 1
+
+coincided
+VERB / 1
+
+fruits
+NOUN / 1
+
+efforts
+NOUN / 1
+
+code
+NOUN / 1
+
+owners
+NOUN / 1
+
+allowed
+VERB / 1
+
+blanket
+NOUN / 1
+
+circle
+NOUN / 1
+
+forty
+CONJUNCTION / 1
+
+lashes
+NOUN / 1
+
+managed
+VERB / 1
+
+coerce
+VERB / 1
+
+welcome
+ADJECTIVE / 1
+
+telephoning
+VERB / 1
+
+ringers
+NOUN / 1
+
+legitimate
+ADJECTIVE / 1
+
+invitees
+NOUN / 1
+
+want
+VERB / 1
+
+potlatches
+NOUN / 1
+
+planning
+VERB / 1
+
+so
+CONJUNCTION / 1
+
+splashing
+VERB / 1
+
+mob
+NOUN / 1
+
+looks
+VERB / 1
+
+august
+NOUN / 1
+
+adults
+NOUN / 1
+
+chaperoned
+VERB / 1
+
+accompanying
+VERB / 1
+
+eye
+NOUN / 1
+
+gaggle
+NOUN / 1
+
+gabbling
+VERB / 1
+
+backs
+NOUN / 1
+
+safeguard
+NOUN / 1
+
+bottle
+NOUN / 1
+
+tolerated
+VERB / 1
+
+lingo
+NOUN / 1
+
+bar
+NOUN / 1
+
+protesting
+VERB / 1
+
+dunk
+VERB / 1
+
+sanity
+NOUN / 1
+
+solvency
+NOUN / 1
+
+wine
+NOUN / 1
+
+merchant
+NOUN / 1
+
+beating
+NOUN / 1
+
+neighborhood
+NOUN / 1
+
+free-drink
+NOUN / 1
+
+designated
+VERB / 1
+
+teen-agers
+NOUN / 1
+
+definite
+ADJECTIVE / 1
+
+saved
+VERB / 1
+
+constant
+ADJECTIVE / 1
+
+requests
+NOUN / 1
+
+seven
+CONJUNCTION / 1
+
+feel
+VERB / 1
+
+brutal
+ADJECTIVE / 1
+
+fortunate
+ADJECTIVE / 1
+
+worked
+VERB / 1
+
+logistics
+NOUN / 1
+
+swimmers
+NOUN / 1
+
+weekend
+NOUN / 1
+
+enjoying
+VERB / 1
+
+alfresco
+NOUN / 1
+
+lunch
+NOUN / 1
+
+usher
+VERB / 1
+
+island
+NOUN / 1
+
+chairs
+NOUN / 1
+
+amuse
+VERB / 1
+
+ready
+ADJECTIVE / 1
+
+merge
+VERB / 1
+
+dressing
+VERB / 1
+
+undressing
+VERB / 1
+
+exact
+ADJECTIVE / 1
+
+bath
+NOUN / 1
+
+swimmers'
+NOUN / 1
+
+homes
+NOUN / 1
+
+avoid
+VERB / 1
+
+excuse
+NOUN / 1
+
+dripping
+VERB / 1
+
+extension
+NOUN / 1
+
+outdoor
+ADJECTIVE / 1
+
+route
+NOUN / 1
+
+parking
+VERB / 1
+
+extra
+ADJECTIVE / 1
+
+suits
+NOUN / 1
+
+inexpensive
+ADJECTIVE / 1
+
+conveniences
+NOUN / 1
+
+life-preservers
+NOUN / 1
+
+buckle-on
+ADJECTIVE / 1
+
+kapok-filled
+ADJECTIVE / 1
+
+readiness
+NOUN / 1
+
+put
+VERB / 1
+
+localities
+NOUN / 1
+
+fenced
+VERB / 1
+
+minimum
+ADJECTIVE / 1
+
+height
+NOUN / 1
+
+5
+CONJUNCTION / 1
+
+unfenced
+ADJECTIVE / 1
+
+running
+VERB / 1
+
+horseplay
+NOUN / 1
+
+underwater
+ADJECTIVE / 1
+
+endurance
+NOUN / 1
+
+contests
+NOUN / 1
+
+inexpert
+ADJECTIVE / 1
+
+versions
+NOUN / 1
+
+polo
+NOUN / 1
+
+boards
+NOUN / 1
+
+non-skid
+NOUN / 1
+
+surfaces
+NOUN / 1
+
+coco
+NOUN / 1
+
+matting
+NOUN / 1
+
+awful
+ADJECTIVE / 1
+
+chlorine
+NOUN / 1
+
+rots
+VERB / 1
+
+grit-impregnated
+ADJECTIVE / 1
+
+paints
+NOUN / 1
+
+divers
+NOUN / 1
+
+enjoined
+VERB / 1
+
+leap
+VERB / 1
+NOUN / 1
+
+onto
+PREPOSITION / 1
+
+shallow
+ADJECTIVE / 1
+
+steps
+NOUN / 1
+
+littlest
+ADJECTIVE / 1
+
+introduced
+VERB / 1
+
+ladder
+NOUN / 1
+
+affords
+VERB / 1
+
+bottles
+NOUN / 1
+
+safe
+ADJECTIVE / 1
+
+distance
+NOUN / 1
+
+drinking
+VERB / 1
+
+glasses
+NOUN / 1
+
+banned
+VERB / 1
+
+favor
+NOUN / 1
+
+metal
+NOUN / 1
+
+cups
+NOUN / 1
+
+acquire
+VERB / 1
+
+mental
+ADJECTIVE / 1
+
+chat
+NOUN / 1
+
+agent
+NOUN / 1
+
+prepared
+VERB / 1
+
+pitfall
+NOUN / 1
+
+plunges
+NOUN / 1
+
+empty
+ADJECTIVE / 1
+
+manner
+NOUN / 1
+
+lawsuits
+NOUN / 1
+
+soignee
+ADJECTIVE / 1
+
+alas
+OTHER / 1
+
+happen
+VERB / 1
+
+careful
+ADJECTIVE / 1
+
+contest
+NOUN / 1
+
+widow
+NOUN / 1
+
+leisure
+NOUN / 1
+
+nursing
+VERB / 1
+
+pool's
+NOUN / 1
+
+pristine
+ADJECTIVE / 1
+
+purity
+NOUN / 1
+
+care
+NOUN / 1
+
+feeding
+VERB / 1
+
+ph
+NOUN / 1
+
+content
+NOUN / 1
+
+filtering
+VERB / 1
+
+vacuuming
+VERB / 1
+
+bi-monthly
+ADJECTIVE / 1
+
+add
+VERB / 1
+
+housekeeping
+NOUN / 1
+
+chores
+NOUN / 1
+
+brief
+ADJECTIVE / 1
+NOUN / 1
+
+hydraulics
+NOUN / 1
+
+builders
+NOUN / 1
+
+appreciated
+VERB / 1
+
+future
+ADJECTIVE / 1
+NOUN / 1
+
+crisis
+NOUN / 1
+
+high
+ADJECTIVE / 1
+NOUN / 1
+
+temperature
+NOUN / 1
+
+poison
+NOUN / 1
+
+walls
+NOUN / 1
+
+algaecide
+NOUN / 1
+
+help
+NOUN / 1
+VERB / 1
+
+full-time
+ADJECTIVE / 1
+
+nurse
+NOUN / 1
+
+trap
+NOUN / 1
+
+dirt-catcher
+NOUN / 1
+
+filter
+NOUN / 1
+
+clean
+ADJECTIVE / 1
+VERB / 1
+
+bobby
+NOUN / 1
+
+pins
+NOUN / 1
+
+rust
+NOUN / 1
+
+marks
+NOUN / 1
+
+cleaning
+NOUN / 1
+
+fair-weather
+NOUN / 1
+
+lend
+VERB / 1
+
+scrubbing
+VERB / 1
+
+furbishing
+VERB / 1
+
+happened
+VERB / 1
+
+remove
+VERB / 1
+
+drain
+NOUN / 1
+
+grate
+NOUN / 1
+
+emptied
+VERB / 1
+
+brush
+VERB / 1
+
+bottom
+NOUN / 1
+
+dirt
+NOUN / 1
+
+stain
+NOUN / 1
+
+dry
+VERB / 1
+
+6-
+CONJUNCTION / 1
+
+8-inch
+ADJECTIVE / 1
+
+pipe
+NOUN / 1
+
+wash
+VERB / 1
+
+debris
+NOUN / 1
+
+6-inch
+ADJECTIVE / 1
+
+torrent
+NOUN / 1
+
+released
+VERB / 1
+
+comment
+NOUN / 1
+
+passes
+VERB / 1
+NOUN / 1
+
+neighboring
+VERB / 1
+
+properties
+NOUN / 1
+
+forget
+VERB / 1
+
+located
+VERB / 1
+
+sloping
+VERB / 1
+
+drainage
+NOUN / 1
+
+desirable
+ADJECTIVE / 1
+
+pumping
+VERB / 1
+
+scooping
+VERB / 1
+
+lighting
+NOUN / 1
+
+dramatizes
+VERB / 1
+
+scene
+NOUN / 1
+
+lights
+NOUN / 1
+
+attract
+VERB / 1
+
+insect
+NOUN / 1
+
+miles
+NOUN / 1
+
+visitors
+NOUN / 1
+
+providing
+VERB / 1
+
+slapping
+VERB / 1
+
+floodlight
+NOUN / 1
+
+tree
+NOUN / 1
+
+taught
+VERB / 1
+
+pays
+VERB / 1
+
+pipes
+NOUN / 1
+
+brushes
+NOUN / 1
+
+pool-care
+NOUN / 1
+
+letter
+NOUN / 1
+
+responsible
+ADJECTIVE / 1
+
+aspect
+NOUN / 1
+
+wasn't
+VERB / 1
+
+valves
+NOUN / 1
+
+ship
+NOUN / 1
+
+hitting
+VERB / 1
+
+discover
+VERB / 1
+
+putting
+VERB / 1
+
+america
+NOUN / 1
+
+faces
+VERB / 1
+
+depicted
+VERB / 1
+
+message
+NOUN / 1
+
+determine
+VERB / 1
+
+whether
+CONJUNCTION / 1
+
+governed
+VERB / 1
+
+endure
+VERB / 1
+
+hour
+NOUN / 1
+
+peril
+NOUN / 1
+
+opportunity
+NOUN / 1
+
+counsel
+NOUN / 1
+
+incapable
+ADJECTIVE / 1
+
+self-delusion
+NOUN / 1
+
+grave
+ADJECTIVE / 1
+
+surmount
+VERB / 1
+
+republic
+NOUN / 1
+
+peoples
+NOUN / 1
+
+prosper
+VERB / 1
+
+serve
+VERB / 1
+
+aching
+VERB / 1
+
+liberty
+NOUN / 1
+
+washington
+NOUN / 1
+
+benjamin
+NOUN / 1
+
+franklin
+NOUN / 1
+
+jefferson
+NOUN / 1
+
+alexander
+NOUN / 1
+
+hamilton
+NOUN / 1
+
+madison
+NOUN / 1
+
+jay
+NOUN / 1
+
+destinies
+NOUN / 1
+
+respects
+NOUN / 1
+
+task
+NOUN / 1
+
+1789
+CONJUNCTION / 1
+
+wilderness
+NOUN / 1
+
+footstep
+NOUN / 1
+
+guide
+VERB / 1
+
+successors
+NOUN / 1
+
+easier
+ADJECTIVE / 1
+
+jefferson's
+NOUN / 1
+
+words
+NOUN / 1
+
+argonauts
+NOUN / 1
+
+pains
+NOUN / 1
+
+preserve
+VERB / 1
+
+papers
+NOUN / 1
+
+posterity
+NOUN / 1
+
+writings
+NOUN / 1
+
+dramatic
+ADJECTIVE / 1
+
+patriotic
+ADJECTIVE / 1
+
+conviction
+NOUN / 1
+
+selfish
+ADJECTIVE / 1
+
+parochial
+ADJECTIVE / 1
+
+wartime
+NOUN / 1
+
+circular
+NOUN / 1
+
+reminded
+VERB / 1
+
+fellow
+NOUN / 1
+
+countrymen
+NOUN / 1
+
+fate
+NOUN / 1
+
+unborn
+ADJECTIVE / 1
+
+millions
+NOUN / 1
+
+strong
+ADJECTIVE / 1
+
+point
+NOUN / 1
+
+indiscreet
+ADJECTIVE / 1
+
+congenial
+ADJECTIVE / 1
+
+minds
+NOUN / 1
+
+agreements
+NOUN / 1
+
+consequential
+ADJECTIVE / 1
+
+differences
+NOUN / 1
+
+though
+CONJUNCTION / 1
+
+completion
+NOUN / 1
+
+definitive
+ADJECTIVE / 1
+
+editions
+NOUN / 1
+
+enough
+DETERMINER / 1
+OTHER / 1
+
+assembled
+VERB / 1
+
+warrant
+VERB / 1
+
+drawing
+VERB / 1
+NOUN / 1
+
+composite
+ADJECTIVE / 1
+
+profile
+NOUN / 1
+
+performed
+VERB / 1
+
+heroic
+ADJECTIVE / 1
+
+dual
+ADJECTIVE / 1
+
+feats
+NOUN / 1
+
+winning
+VERB / 1
+
+independence
+NOUN / 1
+
+founding
+VERB / 1
+
+merging
+VERB / 1
+
+common
+ADJECTIVE / 1
+
+separate
+ADJECTIVE / 1
+
+careers
+NOUN / 1
+
+extraordinary
+ADJECTIVE / 1
+
+statesmen
+NOUN / 1
+
+later
+ADJECTIVE / 1
+
+concentrated
+VERB / 1
+
+span
+NOUN / 1
+
+eldest
+ADJECTIVE / 1
+
+transplanted
+VERB / 1
+
+philadelphia
+NOUN / 1
+
+dazzling
+VERB / 1
+
+story
+NOUN / 1
+
+printer's
+NOUN / 1
+
+apprentice
+NOUN / 1
+
+greatness
+NOUN / 1
+
+half-dozen
+NOUN / 1
+
+editor
+NOUN / 1
+
+publisher
+NOUN / 1
+
+scientist
+NOUN / 1
+
+inventor
+NOUN / 1
+
+philanthropist
+NOUN / 1
+
+statesman
+NOUN / 1
+
+adopted
+VERB / 1
+
+avoided
+VERB / 1
+
+fought
+VERB / 1
+
+colonists'
+NOUN / 1
+
+front-line
+NOUN / 1
+
+battles
+NOUN / 1
+
+negotiated
+VERB / 1
+
+treaty
+NOUN / 1
+
+alliance
+NOUN / 1
+
+france
+NOUN / 1
+
+peace
+NOUN / 1
+
+ended
+VERB / 1
+
+government
+NOUN / 1
+
+pennsylvania
+NOUN / 1
+
+moderating
+VERB / 1
+
+military
+ADJECTIVE / 1
+
+mission
+NOUN / 1
+
+native
+ADJECTIVE / 1
+
+youthful
+ADJECTIVE / 1
+
+touched
+VERB / 1
+
+guarded
+VERB / 1
+
+colony's
+NOUN / 1
+
+frontier
+NOUN / 1
+
+militia
+NOUN / 1
+
+commanding
+VERB / 1
+
+six
+CONJUNCTION / 1
+
+ultimate
+ADJECTIVE / 1
+
+victory
+NOUN / 1
+
+beloved
+ADJECTIVE / 1
+
+preside
+VERB / 1
+
+elected
+VERB / 1
+
+tested
+VERB / 1
+
+workable
+ADJECTIVE / 1
+
+policies
+NOUN / 1
+
+inaugurated
+VERB / 1
+
+traditions
+NOUN / 1
+
+powers
+NOUN / 1
+
+office
+NOUN / 1
+
+fixed
+VERB / 1
+
+fashioned
+VERB / 1
+
+pre-revolutionary
+ADJECTIVE / 1
+
+radical
+ADJECTIVE / 1
+
+ideology
+NOUN / 1
+
+constitution
+NOUN / 1
+
+massachusetts
+NOUN / 1
+
+britain
+NOUN / 1
+
+served
+VERB / 1
+
+opponent
+NOUN / 1
+
+lifetime
+NOUN / 1
+
+friend
+NOUN / 1
+
+immortality
+NOUN / 1
+
+authorship
+NOUN / 1
+
+notable
+ADJECTIVE / 1
+
+constitutional
+ADJECTIVE / 1
+
+reforms
+NOUN / 1
+
+instituted
+VERB / 1
+
+role
+NOUN / 1
+
+territorial
+ADJECTIVE / 1
+
+acquisition
+NOUN / 1
+
+term
+NOUN / 1
+
+collaboration
+NOUN / 1
+
+virginian
+NOUN / 1
+
+active
+ADJECTIVE / 1
+
+measure
+NOUN / 1
+
+religious
+ADJECTIVE / 1
+
+played
+VERB / 1
+
+influential
+ADJECTIVE / 1
+
+drafting
+NOUN / 1
+VERB / 1
+
+securing
+VERB / 1
+
+ratification
+NOUN / 1
+
+successor
+NOUN / 1
+
+troubled
+VERB / 1
+
+authentic
+ADJECTIVE / 1
+
+genius
+NOUN / 1
+
+exceptional
+ADJECTIVE / 1
+
+precocity
+NOUN / 1
+
+consuming
+VERB / 1
+
+energy
+NOUN / 1
+
+ambition
+NOUN / 1
+
+prodigy
+NOUN / 1
+
+revolutionary
+ADJECTIVE / 1
+
+pamphlets
+NOUN / 1
+
+published
+VERB / 1
+
+19
+CONJUNCTION / 1
+
+brought
+VERB / 1
+
+attention
+NOUN / 1
+
+patriot
+NOUN / 1
+
+leaders
+NOUN / 1
+
+principal
+NOUN / 1
+
+opposition
+NOUN / 1
+
+begun
+VERB / 1
+
+general's
+NOUN / 1
+
+aide
+NOUN / 1
+
+resumed
+VERB / 1
+
+bold
+ADJECTIVE / 1
+
+fiscal
+ADJECTIVE / 1
+
+broad
+ADJECTIVE / 1
+
+durable
+ADJECTIVE / 1
+
+eloquent
+ADJECTIVE / 1
+
+commands
+VERB / 1
+
+rank
+NOUN / 1
+
+leading
+VERB / 1
+
+negotiating
+VERB / 1
+
+america's
+NOUN / 1
+
+nationalist
+ADJECTIVE / 1
+
+anticipated
+VERB / 1
+
+marshall
+NOUN / 1
+
+two-term
+ADJECTIVE / 1
+
+constituted
+VERB / 1
+
+intellectual
+ADJECTIVE / 1
+
+elite
+NOUN / 1
+
+disinterested
+ADJECTIVE / 1
+
+revolution
+NOUN / 1
+
+confessed
+VERB / 1
+
+acumen
+NOUN / 1
+
+hamilton's
+NOUN / 1
+
+power-starved
+ADJECTIVE / 1
+
+intellectuals
+NOUN / 1
+
+underdeveloped
+ADJECTIVE / 1
+
+commanded
+VERB / 1
+
+prestige
+NOUN / 1
+
+tall
+ADJECTIVE / 1
+
+angular
+ADJECTIVE / 1
+
+chubby
+ADJECTIVE / 1
+
+rotund
+ADJECTIVE / 1
+
+striking
+ADJECTIVE / 1
+
+individualists
+NOUN / 1
+
+ardent
+ADJECTIVE / 1
+
+opinionated
+ADJECTIVE / 1
+
+obstinate
+ADJECTIVE / 1
+
+articulate
+ADJECTIVE / 1
+
+masters
+NOUN / 1
+
+phrasemaking
+NOUN / 1
+
+capable
+ADJECTIVE / 1
+
+enduring
+VERB / 1
+
+friendships
+NOUN / 1
+
+stout
+ADJECTIVE / 1
+
+controversialists
+NOUN / 1
+
+write
+VERB / 1
+
+vitriol
+NOUN / 1
+
+pens
+NOUN / 1
+
+dismissed
+VERB / 1
+
+dickinson
+NOUN / 1
+
+voted
+VERB / 1
+
+fortune
+NOUN / 1
+
+piddling
+VERB / 1
+
+castigated
+VERB / 1
+
+critic
+NOUN / 1
+
+conway
+NOUN / 1
+
+meanness
+NOUN / 1
+
+intrigue
+NOUN / 1
+
+gratify
+VERB / 1
+
+absurd
+ADJECTIVE / 1
+
+resentment
+NOUN / 1
+
+disappointed
+VERB / 1
+
+vanity
+NOUN / 1
+
+duty
+NOUN / 1
+
+oppose
+VERB / 1
+
+aaron
+NOUN / 1
+
+burr's
+NOUN / 1
+
+ambitions
+NOUN / 1
+
+better
+ADJECTIVE / 1
+
+actuarial
+ADJECTIVE / 1
+
+risk
+NOUN / 1
+
+literary
+ADJECTIVE / 1
+
+restraint
+NOUN / 1
+
+dedicated
+VERB / 1
+
+remarked
+VERB / 1
+
+fits
+VERB / 1
+
+retired
+VERB / 1
+
+editing
+VERB / 1
+
+42
+CONJUNCTION / 1
+
+forty-two
+CONJUNCTION / 1
+
+devoted
+VERB / 1
+
+philanthropic
+ADJECTIVE / 1
+
+interests
+NOUN / 1
+
+extended
+VERB / 1
+
+stretch
+NOUN / 1
+
+occupation
+NOUN / 1
+
+loved
+VERB / 1
+
+plantation
+NOUN / 1
+
+compensation
+NOUN / 1
+
+advice
+NOUN / 1
+
+mentor
+NOUN / 1
+
+jeremiah
+NOUN / 1
+
+gridley
+NOUN / 1
+
+rather
+PREPOSITION / 1
+
+gain
+NOUN / 1
+
+account
+NOUN / 1
+
+seventeen
+CONJUNCTION / 1
+
+practice
+NOUN / 1
+
+abandoned
+VERB / 1
+
+sacrifice
+NOUN / 1
+
+poorest
+ADJECTIVE / 1
+
+washington's
+NOUN / 1
+
+handling
+VERB / 1
+
+multi-million-dollar
+ADJECTIVE / 1
+
+funding
+VERB / 1
+
+operations
+NOUN / 1
+
+resort
+VERB / 1
+
+borrowing
+VERB / 1
+
+sums
+NOUN / 1
+
+twenty
+CONJUNCTION / 1
+
+dollars
+NOUN / 1
+
+1791
+CONJUNCTION / 1
+
+talleyrand
+NOUN / 1
+
+passed
+VERB / 1
+
+bent
+VERB / 1
+
+desk
+NOUN / 1
+
+paper
+NOUN / 1
+
+candle
+NOUN / 1
+
+frenchman
+NOUN / 1
+
+astonished
+VERB / 1
+
+viewing
+VERB / 1
+
+reflected
+VERB / 1
+
+devotion
+NOUN / 1
+
+profound
+ADJECTIVE / 1
+
+legality
+NOUN / 1
+
+asserted
+VERB / 1
+
+colonies
+NOUN / 1
+
+accordance
+NOUN / 1
+
+charters
+NOUN / 1
+
+tribunal
+NOUN / 1
+
+justified
+VERB / 1
+
+nature's
+NOUN / 1
+
+forgiving
+VERB / 1
+
+foes
+NOUN / 1
+
+vindictive
+ADJECTIVE / 1
+
+legislatures
+NOUN / 1
+
+confiscating
+VERB / 1
+
+tory
+NOUN / 1
+
+property
+NOUN / 1
+
+1783
+CONJUNCTION / 1
+
+moderation
+NOUN / 1
+
+exemplified
+VERB / 1
+
+exchange
+NOUN / 1
+
+refugee
+NOUN / 1
+
+schaack
+NOUN / 1
+
+participated
+VERB / 1
+
+exiled
+VERB / 1
+
+war's
+NOUN / 1
+
+ex-tory
+NOUN / 1
+
+correspondence
+NOUN / 1
+
+settlement
+NOUN / 1
+
+independent
+ADJECTIVE / 1
+
+amongst
+PREPOSITION / 1
+
+assured
+VERB / 1
+
+ceased
+VERB / 1
+
+latter
+DETERMINER / 1
+
+arraigned
+VERB / 1
+
+merits
+NOUN / 1
+
+recognized
+VERB / 1
+
+counseled
+VERB / 1
+
+super-imposed
+VERB / 1
+
+displacing
+VERB / 1
+
+affectionate
+ADJECTIVE / 1
+
+ties
+NOUN / 1
+
+one's
+PRONOUN / 1
+
+epitomized
+VERB / 1
+
+inaugural
+ADJECTIVE / 1
+
+address
+NOUN / 1
+
+speaks
+VERB / 1
+
+voice
+NOUN / 1
+
+hear
+VERB / 1
+
+veneration
+NOUN / 1
+
+fruition
+NOUN / 1
+
+nationalism
+NOUN / 1
+
+save
+PREPOSITION / 1
+VERB / 1
+
+framing
+NOUN / 1
+
+supported
+VERB / 1
+
+instrument
+NOUN / 1
+
+obtainable
+ADJECTIVE / 1
+
+regarded
+VERB / 1
+
+debates
+NOUN / 1
+
+polarizing
+VERB / 1
+
+centralized
+VERB / 1
+
+vs.
+PREPOSITION / 1
+
+nationalists
+NOUN / 1
+
+supporting
+VERB / 1
+
+upholding
+VERB / 1
+
+state's
+NOUN / 1
+
+rights
+NOUN / 1
+
+formulated
+VERB / 1
+
+kentucky
+NOUN / 1
+
+heads
+NOUN / 1
+
+hamiltonians
+NOUN / 1
+
+jeffersonians
+NOUN / 1
+
+purchasing
+VERB / 1
+
+advocating
+VERB / 1
+
+rechartering
+NOUN / 1
+
+bank
+NOUN / 1
+
+opposed
+VERB / 1
+
+inception
+NOUN / 1
+
+adopting
+VERB / 1
+
+hamiltonian
+ADJECTIVE / 1
+
+protective
+ADJECTIVE / 1
+
+tariff
+NOUN / 1
+
+atune
+ADJECTIVE / 1
+
+hamilton-oriented
+ADJECTIVE / 1
+
+whigs
+NOUN / 1
+
+jacksonian
+ADJECTIVE / 1
+
+democrats
+NOUN / 1
+
+1832
+CONJUNCTION / 1
+
+nullifiers
+NOUN / 1
+
+interposition
+NOUN / 1
+
+elicited
+VERB / 1
+
+encouragement
+NOUN / 1
+
+testament
+NOUN / 1
+
+penned
+VERB / 1
+
+expressed
+VERB / 1
+
+wish
+NOUN / 1
+
+perpetuated
+VERB / 1
+
+enemy
+NOUN / 1
+
+pandora
+NOUN / 1
+
+box
+NOUN / 1
+
+disguised
+VERB / 1
+
+serpent
+NOUN / 1
+
+creeping
+VERB / 1
+
+deadly
+ADJECTIVE / 1
+
+wiles
+NOUN / 1
+
+nuclear
+ADJECTIVE / 1
+
+targets
+NOUN / 1
+
+predictions
+NOUN / 1
+
+soothsayers
+NOUN / 1
+
+factories
+NOUN / 1
+
+predicted
+VERB / 1
+
+escalation
+NOUN / 1
+
+biggest
+ADJECTIVE / 1
+
+device
+NOUN / 1
+
+measured
+VERB / 1
+
+15
+CONJUNCTION / 1
+
+megatons
+NOUN / 1
+
+b-52s
+NOUN / 1
+
+20-megaton
+NOUN / 1
+
+khrushchev
+NOUN / 1
+
+bigger
+ADJECTIVE / 1
+
+30-
+CONJUNCTION / 1
+
+50-megaton
+ADJECTIVE / 1
+
+hue
+NOUN / 1
+
+counter-escalation
+NOUN / 1
+
+threatens
+VERB / 1
+
+100-megaton
+ADJECTIVE / 1
+
+bomb
+NOUN / 1
+
+embark
+VERB / 1
+
+crash
+ADJECTIVE / 1
+NOUN / 1
+
+200-megaton
+ADJECTIVE / 1
+
+hydrogen
+NOUN / 1
+
+neutron
+NOUN / 1
+
+exist
+VERB / 1
+
+begin
+VERB / 1
+
+dropping
+VERB / 1
+
+proving
+VERB / 1
+
+philip
+NOUN / 1
+
+morrison
+NOUN / 1
+
+writes
+VERB / 1
+
+october
+NOUN / 1
+
+26
+CONJUNCTION / 1
+
+discontinuity
+NOUN / 1
+
+destruction
+NOUN / 1
+
+diplomatic
+ADJECTIVE / 1
+
+urbanized
+VERB / 1
+
+china
+NOUN / 1
+
+vulnerable
+ADJECTIVE / 1
+
+feels
+VERB / 1
+
+seek
+VERB / 1
+
+risky
+ADJECTIVE / 1
+
+path
+NOUN / 1
+
+proposal
+NOUN / 1
+
+nixon
+NOUN / 1
+
+rockefeller
+NOUN / 1
+
+strauss
+NOUN / 1
+
+mccone
+NOUN / 1
+
+teller
+NOUN / 1
+
+triumph
+NOUN / 1
+
+exacerbation
+NOUN / 1
+
+cold
+ADJECTIVE / 1
+NOUN / 1
+
+gentlemen
+NOUN / 1
+
+calling
+VERB / 1
+
+resumption
+NOUN / 1
+
+testing
+VERB / 1
+
+greatest
+ADJECTIVE / 1
+
+scale
+NOUN / 1
+
+name
+NOUN / 1
+
+security
+NOUN / 1
+
+faithful
+ADJECTIVE / 1
+
+unto
+PREPOSITION / 1
+
+directions
+NOUN / 1
+
+guardians
+NOUN / 1
+
+nation's
+NOUN / 1
+
+learning
+VERB / 1
+
+observing
+VERB / 1
+
+capacity
+NOUN / 1
+
+disastrous
+ADJECTIVE / 1
+
+miscalculation
+NOUN / 1
+
+gained
+VERB / 1
+
+rockets
+NOUN / 1
+
+sufficient
+ADJECTIVE / 1
+
+thrust
+NOUN / 1
+
+lob
+VERB / 1
+
+shorter
+ADJECTIVE / 1
+
+intercontinental
+ADJECTIVE / 1
+
+ranges
+NOUN / 1
+
+purpose
+NOUN / 1
+
+inspire
+VERB / 1
+
+terror
+NOUN / 1
+
+miscarried
+VERB / 1
+
+anger
+NOUN / 1
+
+sphere
+NOUN / 1
+
+reported
+VERB / 1
+
+surge
+NOUN / 1
+
+animosity
+NOUN / 1
+
+aroused
+VERB / 1
+
+footsteps
+NOUN / 1
+
+powerful
+ADJECTIVE / 1
+
+strives
+VERB / 1
+
+emulate
+VERB / 1
+
+russians
+NOUN / 1
+
+sent
+VERB / 1
+
+sputnik
+NOUN / 1
+
+chagrin
+NOUN / 1
+
+determination
+NOUN / 1
+
+satellites
+NOUN / 1
+
+orbit
+NOUN / 1
+
+understandable
+ADJECTIVE / 1
+
+imitate
+VERB / 1
+
+mistake
+NOUN / 1
+
+statesmanlike
+ADJECTIVE / 1
+
+folly
+NOUN / 1
+
+fled
+VERB / 1
+
+paeans
+NOUN / 1
+
+throats
+NOUN / 1
+
+publicists
+NOUN / 1
+
+vocal
+ADJECTIVE / 1
+
+migrating
+VERB / 1
+
+flood
+NOUN / 1
+
+700
+CONJUNCTION / 1
+
+according
+PREPOSITION / 1
+
+symptomatic
+ADJECTIVE / 1
+
+berlin
+NOUN / 1
+
+morale
+NOUN / 1
+
+low
+ADJECTIVE / 1
+
+distribution
+NOUN / 1
+
+unfavorable
+ADJECTIVE / 1
+
+per
+PREPOSITION / 1
+
+cent
+NOUN / 1
+
+2,200,000
+CONJUNCTION / 1
+
+residents
+NOUN / 1
+
+sixty-five
+CONJUNCTION / 1
+
+12.8
+CONJUNCTION / 1
+
+fifteen
+CONJUNCTION / 1
+
+crossman
+NOUN / 1
+
+m.p.
+NOUN / 1
+
+departures
+NOUN / 1
+
+rate
+NOUN / 1
+
+1,700
+CONJUNCTION / 1
+
+applications
+NOUN / 1
+
+risen
+VERB / 1
+
+1,900
+CONJUNCTION / 1
+
+official
+ADJECTIVE / 1
+
+60
+CONJUNCTION / 1
+
+removal
+NOUN / 1
+
+firms
+NOUN / 1
+
+booked
+VERB / 1
+
+loss
+NOUN / 1
+
+counterbalanced
+VERB / 1
+
+500
+CONJUNCTION / 1
+
+arrivals
+NOUN / 1
+
+closing
+NOUN / 1
+
+interference
+NOUN / 1
+
+distinct
+ADJECTIVE / 1
+
+russian
+ADJECTIVE / 1
+
+troops
+NOUN / 1
+
+fatal
+ADJECTIVE / 1
+
+gallant
+ADJECTIVE / 1
+
+half-city
+NOUN / 1
+
+dying
+VERB / 1
+
+piece
+NOUN / 1
+
+appears
+VERB / 1
+
+dispatch
+NOUN / 1
+
+bonn
+NOUN / 1
+
+mark
+NOUN / 1
+
+arnold-foster
+NOUN / 1
+
+factory
+NOUN / 1
+
+volunteer
+VERB / 1
+
+months'
+NOUN / 1
+
+resilience
+NOUN / 1
+
+amazing
+ADJECTIVE / 1
+
+hire
+VERB / 1
+
+indeed
+OTHER / 1
+
+handwriting
+NOUN / 1
+
+lies
+VERB / 1
+
+compromise
+NOUN / 1
+
+reunite
+VERB / 1
+
+officials
+NOUN / 1
+
+refusing
+VERB / 1
+
+boundary
+NOUN / 1
+
+blocks
+NOUN / 1
+
+escort
+NOUN / 1
+
+avail
+VERB / 1
+
+tanks
+NOUN / 1
+
+lined
+VERB / 1
+
+helpful
+ADJECTIVE / 1
+
+materials
+NOUN / 1
+
+lippmann
+NOUN / 1
+
+sober
+ADJECTIVE / 1
+
+commentators
+NOUN / 1
+
+alan
+NOUN / 1
+
+clark
+NOUN / 1
+
+367
+CONJUNCTION / 1
+
+spelled
+VERB / 1
+
+glow
+NOUN / 1
+
+graveyard
+NOUN / 1
+
+monument
+NOUN / 1
+
+intransigence
+NOUN / 1
+
+wants
+VERB / 1
+
+stalin's
+NOUN / 1
+
+mausoleum
+NOUN / 1
+
+shared
+VERB / 1
+
+lenin
+NOUN / 1
+
+distinguished
+VERB / 1
+
+unprecedented
+ADJECTIVE / 1
+
+mild
+ADJECTIVE / 1
+
+chastisement
+NOUN / 1
+
+dead
+ADJECTIVE / 1
+
+british
+ADJECTIVE / 1
+
+haestier
+NOUN / 1
+
+book
+NOUN / 1
+
+recalls
+VERB / 1
+
+turmoil
+NOUN / 1
+
+preceding
+VERB / 1
+
+died
+VERB / 1
+
+180
+CONJUNCTION / 1
+
+torn
+VERB / 1
+
+pieces
+NOUN / 1
+
+cromwell
+NOUN / 1
+
+disinterred
+VERB / 1
+
+hanged
+VERB / 1
+
+tyburn
+NOUN / 1
+
+pole
+NOUN / 1
+
+buried
+VERB / 1
+
+gallows
+NOUN / 1
+
+contemplating
+VERB / 1
+
+posthumous
+ADJECTIVE / 1
+
+punishments
+NOUN / 1
+
+stalin
+NOUN / 1
+
+lose
+VERB / 1
+
+1899
+CONJUNCTION / 1
+
+erected
+VERB / 1
+
+statue
+NOUN / 1
+
+facing
+VERB / 1
+
+whitehall
+NOUN / 1
+
+stands
+VERB / 1
+
+nikita
+NOUN / 1
+
+tomb
+NOUN / 1
+
+double
+ADJECTIVE / 1
+
+occupancy
+NOUN / 1
+
+moscow
+NOUN / 1
+
+crowded
+VERB / 1
+
+creed
+NOUN / 1
+
+deplores
+VERB / 1
+
+waste
+NOUN / 1
+
+beside
+PREPOSITION / 1
+
+karl
+NOUN / 1
+
+marx
+NOUN / 1
+
+macmillan
+NOUN / 1
+
+willing
+ADJECTIVE / 1
+
+seventy-eight
+CONJUNCTION / 1
+
+morticians
+NOUN / 1
+
+presentable
+ADJECTIVE / 1
+
+stature
+NOUN / 1
+
+lodge
+VERB / 1
+
+dog
+NOUN / 1
+
+receive
+VERB / 1
+
+highest
+ADJECTIVE / 1
+
+gift
+NOUN / 1
+
+musing
+VERB / 1
+
+instability
+NOUN / 1
+
+exhumations
+NOUN / 1
+
+rehabilitations
+NOUN / 1
+
+match
+VERB / 1
+
+suppose
+VERB / 1
+
+rake
+VERB / 1
+
+misdeeds
+NOUN / 1
+
+revered
+VERB / 1
+
+predecessor
+NOUN / 1
+
+pass
+VERB / 1
+
+resolutions
+NOUN / 1
+
+applauding
+VERB / 1
+
+dispossession
+NOUN / 1
+
+entitled
+VERB / 1
+
+buys
+VERB / 1
+
+plot
+NOUN / 1
+
+modest
+ADJECTIVE / 1
+
+rural
+ADJECTIVE / 1
+
+cemetery
+NOUN / 1
+
+appointment
+NOUN / 1
+
+u
+NOUN / 1
+
+thant
+NOUN / 1
+
+burma
+NOUN / 1
+
+u.n.'s
+NOUN / 1
+
+choice
+NOUN / 1
+
+offers
+VERB / 1
+
+politics
+NOUN / 1
+
+enemies
+NOUN / 1
+
+mongi
+NOUN / 1
+
+tunisia
+NOUN / 1
+
+boland
+NOUN / 1
+
+ireland
+NOUN / 1
+
+favorites
+NOUN / 1
+
+didn't
+VERB / 1
+
+neutralists
+NOUN / 1
+
+maintaining
+VERB / 1
+
+succeed
+VERB / 1
+
+hammarskjold
+NOUN / 1
+
+candidate
+NOUN / 1
+
+unlikely
+ADJECTIVE / 1
+
+waylaid
+VERB / 1
+
+veto
+NOUN / 1
+
+interesting
+ADJECTIVE / 1
+
+qualifications
+NOUN / 1
+
+post
+NOUN / 1
+
+tail
+NOUN / 1
+
+candidacy
+NOUN / 1
+
+in-fighting
+NOUN / 1
+
+squabbles
+NOUN / 1
+
+election
+NOUN / 1
+
+procedures
+NOUN / 1
+
+complicated
+VERB / 1
+
+numbers
+NOUN / 1
+
+game
+VERB / 1
+
+assistant
+ADJECTIVE / 1
+
+secretaries'
+NOUN / 1
+
+gentleman
+NOUN / 1
+
+showed
+VERB / 1
+
+skilled
+ADJECTIVE / 1
+
+diplomat
+NOUN / 1
+
+augurs
+VERB / 1
+
+buddhist
+NOUN / 1
+
+sanctity
+NOUN / 1
+
+dogma
+NOUN / 1
+
+unshakable
+ADJECTIVE / 1
+
+1963
+CONJUNCTION / 1
+
+hammarskjold's
+NOUN / 1
+
+compromises
+NOUN / 1
+
+interim
+NOUN / 1
+
+remains
+VERB / 1
+
+seen
+VERB / 1
+
+khrushchev's
+NOUN / 1
+
+demand
+NOUN / 1
+
+dormant
+ADJECTIVE / 1
+
+remain
+VERB / 1
+
+satisfied
+VERB / 1
+
+neutralism
+NOUN / 1
+
+represents
+VERB / 1
+
+showdown
+NOUN / 1
+
+promised
+VERB / 1
+
+tragic
+ADJECTIVE / 1
+
+precedents
+NOUN / 1
+
+u.n.
+NOUN / 1
+
+fluid
+ADJECTIVE / 1
+
+pressures
+NOUN / 1
+
+enlarged
+VERB / 1
+
+bear
+VERB / 1
+
+pessimists
+NOUN / 1
+
+plunged
+VERB / 1
+
+congo
+NOUN / 1
+
+wrong
+ADJECTIVE / 1
+
+sole
+ADJECTIVE / 1
+
+staple
+NOUN / 1
+
+mentalities
+NOUN / 1
+
+crave
+VERB / 1
+
+messrs.
+NOUN / 1
+
+salsich
+NOUN / 1
+
+engh
+NOUN / 1
+
+report
+VERB / 1
+
+372
+CONJUNCTION / 1
+
+connotations
+NOUN / 1
+
+vague
+ADJECTIVE / 1
+
+vigilantism
+NOUN / 1
+
+spreading
+VERB / 1
+
+magazine
+NOUN / 1
+
+distributed
+VERB / 1
+
+chevrolet
+NOUN / 1
+
+dealers
+NOUN / 1
+
+describes
+VERB / 1
+
+paramilitary
+ADJECTIVE / 1
+
+employees
+NOUN / 1
+
+foley
+NOUN / 1
+
+alabama
+NOUN / 1
+
+invaders
+NOUN / 1
+
+swarm
+VERB / 1
+
+reads
+VERB / 1
+
+count
+VERB / 1
+
+heavy
+ADJECTIVE / 1
+
+commando-trained
+ADJECTIVE / 1
+
+girls
+NOUN / 1
+
+mobilized
+VERB / 1
+
+fast-moving
+ADJECTIVE / 1
+
+outfit
+NOUN / 1
+
+23
+CONJUNCTION / 1
+
+operators
+NOUN / 1
+
+personnel
+NOUN / 1
+
+minute's
+NOUN / 1
+
+unit
+NOUN / 1
+
+snook
+NOUN / 1
+
+commando
+NOUN / 1
+
+manager
+NOUN / 1
+
+fetching
+ADJECTIVE / 1
+
+uniforms
+NOUN / 1
+
+firing
+VERB / 1
+
+launcher
+NOUN / 1
+
+mounted
+VERB / 1
+
+dump
+NOUN / 1
+
+truck
+NOUN / 1
+
+trained
+VERB / 1
+
+carbines
+NOUN / 1
+
+automatic
+ADJECTIVE / 1
+
+pistols
+NOUN / 1
+
+rifles
+NOUN / 1
+
+ladies'
+NOUN / 1
+
+accessories
+NOUN / 1
+
+mount
+VERB / 1
+
+frenzy
+NOUN / 1
+
+committed
+VERB / 1
+
+threaten
+VERB / 1
+
+actual
+ADJECTIVE / 1
+
+formula
+NOUN / 1
+
+frustration
+NOUN / 1
+
+civic
+ADJECTIVE / 1
+
+temper
+NOUN / 1
+
+rises
+VERB / 1
+
+citizens
+NOUN / 1
+
+soldier
+NOUN / 1
+
+guns
+NOUN / 1
+
+hunt
+VERB / 1
+
+traitors
+NOUN / 1
+
+midst
+NOUN / 1
+
+douglas
+NOUN / 1
+
+fifth
+NUMBER / 1
+
+noble
+ADJECTIVE / 1
+
+humanitarian
+NOUN / 1
+
+scot
+NOUN / 1
+
+plight
+NOUN / 1
+
+crofters
+NOUN / 1
+
+conceived
+VERB / 1
+
+valley
+NOUN / 1
+
+desired
+VERB / 1
+
+lay
+VERB / 1
+
+northern
+ADJECTIVE / 1
+
+purchased
+VERB / 1
+
+controlling
+VERB / 1
+
+116,000
+CONJUNCTION / 1
+
+valleys
+NOUN / 1
+
+assiniboine
+NOUN / 1
+
+rivers
+NOUN / 1
+
+headwaters
+NOUN / 1
+
+1811
+CONJUNCTION / 1
+
+scots
+NOUN / 1
+
+settling
+VERB / 1
+
+harrison
+NOUN / 1
+
+preparing
+VERB / 1
+
+pacify
+VERB / 1
+
+aborigines
+NOUN / 1
+
+fame
+NOUN / 1
+
+battle
+NOUN / 1
+
+tippecanoe
+NOUN / 1
+
+anglo-saxon
+ADJECTIVE / 1
+
+continent
+NOUN / 1
+
+red
+NOUN / 1
+
+twenty-three
+CONJUNCTION / 1
+
+1812
+CONJUNCTION / 1
+
+colony
+NOUN / 1
+
+present-day
+ADJECTIVE / 1
+
+winnipeg
+NOUN / 1
+
+numbered
+VERB / 1
+
+engaged
+VERB / 1
+
+thick
+ADJECTIVE / 1
+
+sod
+NOUN / 1
+
+stirring
+VERB / 1
+
+rich
+ADJECTIVE / 1
+
+soil
+NOUN / 1
+
+meurons
+NOUN / 1
+
+regiments
+NOUN / 1
+
+swiss
+ADJECTIVE / 1
+NOUN / 1
+
+mercenaries
+NOUN / 1
+
+transported
+VERB / 1
+
+canada
+NOUN / 1
+
+fight
+VERB / 1
+
+americans
+NOUN / 1
+
+settled
+VERB / 1
+
+montreal
+NOUN / 1
+
+kingston
+NOUN / 1
+
+1815
+CONJUNCTION / 1
+
+selkirk
+NOUN / 1
+
+persuaded
+VERB / 1
+
+eighty
+CONJUNCTION / 1
+
+officers
+NOUN / 1
+
+protect
+VERB / 1
+
+settlers
+NOUN / 1
+
+hostile
+ADJECTIVE / 1
+
+resented
+VERB / 1
+
+intrusion
+NOUN / 1
+
+farmers
+NOUN / 1
+
+traders'
+NOUN / 1
+
+farming
+VERB / 1
+
+output
+NOUN / 1
+
+plots
+NOUN / 1
+
+hoes
+NOUN / 1
+
+1818
+CONJUNCTION / 1
+
+yield
+NOUN / 1
+
+ravages
+NOUN / 1
+
+grasshoppers
+NOUN / 1
+
+dispersal
+NOUN / 1
+
+damage
+NOUN / 1
+
+assessed
+VERB / 1
+
+fifty
+CONJUNCTION / 1
+
+up
+PREPOSITION / 1
+
+mouth
+NOUN / 1
+
+river
+NOUN / 1
+
+huts
+NOUN / 1
+
+stockade
+NOUN / 1
+
+named
+VERB / 1
+
+selkirk's
+NOUN / 1
+
+barony
+NOUN / 1
+
+scotland
+NOUN / 1
+
+site
+NOUN / 1
+
+warmer
+ADJECTIVE / 1
+
+herds
+NOUN / 1
+
+buffalo
+NOUN / 1
+
+depend
+VERB / 1
+
+traders
+NOUN / 1
+
+southern
+ADJECTIVE / 1
+
+prairie
+NOUN / 1
+
+du
+NOUN / 1
+
+chien
+NOUN / 1
+
+southeast
+NOUN / 1
+
+minnesota
+NOUN / 1
+
+1816
+CONJUNCTION / 1
+
+congress
+NOUN / 1
+
+british-born
+ADJECTIVE / 1
+
+joseph
+NOUN / 1
+
+rolette
+NOUN / 1
+
+renville
+NOUN / 1
+
+alexis
+NOUN / 1
+
+bailly
+NOUN / 1
+
+dickson
+NOUN / 1
+
+trading
+VERB / 1
+
+build
+VERB / 1
+
+fort
+NOUN / 1
+
+defended
+VERB / 1
+
+artillery
+NOUN / 1
+
+goods
+NOUN / 1
+
+carts
+NOUN / 1
+
+devised
+VERB / 1
+
+pembina
+NOUN / 1
+
+decade
+NOUN / 1
+
+1802
+CONJUNCTION / 1
+
+five
+CONJUNCTION / 1
+
+horse
+NOUN / 1
+
+pack
+VERB / 1
+
+pegs
+NOUN / 1
+
+withes
+NOUN / 1
+
+drawn
+VERB / 1
+
+ox
+NOUN / 1
+
+thills
+NOUN / 1
+
+atlantic
+ADJECTIVE / 1
+
+coast
+NOUN / 1
+
+september
+NOUN / 1
+
+1817
+CONJUNCTION / 1
+
+band
+NOUN / 1
+
+sioux
+NOUN / 1
+
+escorted
+VERB / 1
+
+illinois
+NOUN / 1
+
+territory
+NOUN / 1
+
+indiana
+NOUN / 1
+
+eastern
+ADJECTIVE / 1
+
+source
+NOUN / 1
+
+supply
+NOUN / 1
+VERB / 1
+
+arriving
+VERB / 1
+
+baltimore
+NOUN / 1
+
+quincy
+NOUN / 1
+
+inquiring
+VERB / 1
+
+covering
+VERB / 1
+
+missouri
+NOUN / 1
+
+traffic
+NOUN / 1
+
+declared
+VERB / 1
+
+tho'
+CONJUNCTION / 1
+
+increase
+VERB / 1
+
+progress
+NOUN / 1
+
+traveled
+VERB / 1
+
+develop
+VERB / 1
+
+expected
+VERB / 1
+
+1819
+CONJUNCTION / 1
+
+destroyed
+VERB / 1
+
+northerly
+ADJECTIVE / 1
+
+outpost
+NOUN / 1
+
+three-month
+ADJECTIVE / 1
+
+journey
+NOUN / 1
+
+mackinac
+NOUN / 1
+
+boats
+NOUN / 1
+
+completed
+VERB / 1
+
+250
+CONJUNCTION / 1
+
+bushels
+NOUN / 1
+
+wheat
+NOUN / 1
+
+oats
+NOUN / 1
+
+barley
+NOUN / 1
+
+30
+CONJUNCTION / 1
+
+peas
+NOUN / 1
+
+chickens
+NOUN / 1
+
+loaded
+VERB / 1
+
+flat-bottomed
+ADJECTIVE / 1
+
+rowed
+VERB / 1
+
+june
+NOUN / 1
+
+1820
+CONJUNCTION / 1
+
+epic
+ADJECTIVE / 1
+
+secure
+VERB / 1
+
+seed
+NOUN / 1
+
+ab1,040
+CONJUNCTION / 1
+
+retreat
+VERB / 1
+
+plentiful
+ADJECTIVE / 1
+
+north
+NOUN / 1
+
+presence
+NOUN / 1
+
+prompted
+VERB / 1
+
+send
+VERB / 1
+
+leavenworth
+NOUN / 1
+
+detroit
+NOUN / 1
+
+northwest
+NOUN / 1
+
+1822
+CONJUNCTION / 1
+
+companies
+NOUN / 1
+
+infantry
+NOUN / 1
+
+arrived
+VERB / 1
+
+navigation
+NOUN / 1
+
+mississippi
+NOUN / 1
+
+renamed
+VERB / 1
+
+commander
+NOUN / 1
+
+josiah
+NOUN / 1
+
+snelling
+NOUN / 1
+
+outposts
+NOUN / 1
+
+shortages
+NOUN / 1
+
+livestock
+NOUN / 1
+
+hercules
+NOUN / 1
+
+dousman
+NOUN / 1
+
+trader
+NOUN / 1
+
+contracted
+VERB / 1
+
+cattle
+NOUN / 1
+
+francois
+NOUN / 1
+
+labothe
+NOUN / 1
+
+hired
+VERB / 1
+
+drovers
+NOUN / 1
+
+1821
+CONJUNCTION / 1
+
+700-mile
+ADJECTIVE / 1
+
+discontented
+ADJECTIVE / 1
+
+distressing
+ADJECTIVE / 1
+
+half-starved
+ADJECTIVE / 1
+
+immigrants
+NOUN / 1
+
+reservation
+NOUN / 1
+
+civilian
+ADJECTIVE / 1
+
+michilimackinac
+NOUN / 1
+
+michigan
+NOUN / 1
+
+merchandise
+NOUN / 1
+
+offering
+VERB / 1
+
+pork
+NOUN / 1
+
+flour
+NOUN / 1
+
+liquor
+NOUN / 1
+
+tobacco
+NOUN / 1
+
+mcdonnell
+NOUN / 1
+
+bird
+NOUN / 1
+
+chief
+ADJECTIVE / 1
+
+ordered
+VERB / 1
+
+sundry
+ADJECTIVE / 1
+
+articles
+NOUN / 1
+
+ab4,500
+CONJUNCTION / 1
+
+drew
+VERB / 1
+
+british-american
+ADJECTIVE / 1
+
+agreement
+NOUN / 1
+
+suspected
+VERB / 1
+
+halkett
+NOUN / 1
+
+posts
+NOUN / 1
+
+timber
+NOUN / 1
+
+rafts
+NOUN / 1
+
+unfortunate
+ADJECTIVE / 1
+
+threats
+NOUN / 1
+
+carried
+VERB / 1
+
+supplies
+NOUN / 1
+
+powder
+NOUN / 1
+
+thread
+NOUN / 1
+
+nets
+NOUN / 1
+
+350
+CONJUNCTION / 1
+
+persons
+NOUN / 1
+
+village
+NOUN / 1
+
+danger
+NOUN / 1
+
+cast
+VERB / 1
+
+1823
+CONJUNCTION / 1
+
+paid
+VERB / 1
+
+disasters
+NOUN / 1
+
+1825-1826
+CONJUNCTION / 1
+
+rains
+NOUN / 1
+
+onslaught
+NOUN / 1
+
+mice
+NOUN / 1
+
+snow
+NOUN / 1
+
+fell
+VERB / 1
+
+1825
+CONJUNCTION / 1
+
+thaw
+NOUN / 1
+
+produced
+VERB / 1
+
+waters
+NOUN / 1
+
+recede
+VERB / 1
+
+mid-june
+NOUN / 1
+
+24
+CONJUNCTION / 1
+
+400
+CONJUNCTION / 1
+
+plains
+NOUN / 1
+
+443
+CONJUNCTION / 1
+
+survivors
+NOUN / 1
+
+arduous
+ADJECTIVE / 1
+
+clustered
+VERB / 1
+
+galena
+NOUN / 1
+
+vevay
+NOUN / 1
+
+1837
+CONJUNCTION / 1
+
+157
+CONJUNCTION / 1
+
+200
+CONJUNCTION / 1
+
+bluffs
+NOUN / 1
+
+grew
+VERB / 1
+
+landing
+NOUN / 1
+
+lucian
+NOUN / 1
+
+galtier
+NOUN / 1
+
+1840
+CONJUNCTION / 1
+
+pierre
+NOUN / 1
+
+bottineau
+NOUN / 1
+
+refugees
+NOUN / 1
+
+remaining
+VERB / 1
+
+plympton
+NOUN / 1
+
+expelled
+VERB / 1
+
+resultant
+ADJECTIVE / 1
+
+platted
+VERB / 1
+
+1847
+CONJUNCTION / 1
+
+patron
+NOUN / 1
+
+galtier's
+NOUN / 1
+
+selkirkers
+NOUN / 1
+
+increased
+VERB / 1
+
+2,417
+CONJUNCTION / 1
+
+1831
+CONJUNCTION / 1
+
+4,369
+CONJUNCTION / 1
+
+opportunities
+NOUN / 1
+
+violated
+VERB / 1
+
+no-trading
+ADJECTIVE / 1
+
+reserved
+VERB / 1
+
+furs
+NOUN / 1
+
+store
+NOUN / 1
+
+products
+NOUN / 1
+
+merchants
+NOUN / 1
+
+refrain
+VERB / 1
+
+prohibiton
+NOUN / 1
+
+1844
+CONJUNCTION / 1
+
+indians
+NOUN / 1
+
+1845
+CONJUNCTION / 1
+
+assiniboia
+NOUN / 1
+
+imposed
+VERB / 1
+
+20
+CONJUNCTION / 1
+
+imports
+NOUN / 1
+
+viewed
+VERB / 1
+
+aimed
+VERB / 1
+
+vitals
+NOUN / 1
+
+reduce
+VERB / 1
+
+authorities
+NOUN / 1
+
+forwarding
+VERB / 1
+
+customary
+ADJECTIVE / 1
+
+cart
+VERB / 1
+
+pemmican
+NOUN / 1
+
+wells
+NOUN / 1
+
+barrels
+NOUN / 1
+
+whisky
+NOUN / 1
+
+7.5
+CONJUNCTION / 1
+
+1835
+CONJUNCTION / 1
+
+smuggled
+VERB / 1
+
+1841
+CONJUNCTION / 1
+
+4
+CONJUNCTION / 1
+
+initiative
+NOUN / 1
+
+commodities
+NOUN / 1
+
+noted
+VERB / 1
+
+grow
+VERB / 1
+
+volume
+NOUN / 1
+
+changes
+NOUN / 1
+
+49th
+NUMBER / 1
+
+garden
+NOUN / 1
+VERB / 1
+
+mess
+NOUN / 1
+
+workshop
+NOUN / 1
+
+meadow
+NOUN / 1
+
+fault
+NOUN / 1
+
+difficulty
+NOUN / 1
+
+produce
+VERB / 1
+
+quota
+NOUN / 1
+
+details
+NOUN / 1
+
+cleaned
+VERB / 1
+
+continuous
+ADJECTIVE / 1
+
+make-ready
+NOUN / 1
+
+disposed
+VERB / 1
+
+items
+NOUN / 1
+
+undertake
+VERB / 1
+
+wander
+VERB / 1
+
+late
+ADJECTIVE / 1
+
+accompanied
+VERB / 1
+
+dogs
+NOUN / 1
+
+forgotten
+VERB / 1
+
+dreams
+NOUN / 1
+
+romping
+VERB / 1
+
+walks
+NOUN / 1
+
+yelping
+VERB / 1
+
+delight
+NOUN / 1
+
+dashing
+VERB / 1
+
+fruitless
+ADJECTIVE / 1
+
+hunting
+VERB / 1
+
+expeditions
+NOUN / 1
+
+muddy
+ADJECTIVE / 1
+
+paws
+NOUN / 1
+
+ego
+NOUN / 1
+
+assuring
+VERB / 1
+
+world's
+NOUN / 1
+
+guys
+NOUN / 1
+
+slob
+NOUN / 1
+
+apparent
+ADJECTIVE / 1
+
+afternoons
+NOUN / 1
+
+apartment
+NOUN / 1
+
+confused
+VERB / 1
+
+breakdowns
+NOUN / 1
+
+worried
+VERB / 1
+
+simplest
+ADJECTIVE / 1
+
+wake
+VERB / 1
+
+fret
+VERB / 1
+
+half
+OTHER / 1
+
+plow
+VERB / 1
+
+contents
+NOUN / 1
+
+bulging
+VERB / 1
+
+speeded
+VERB / 1
+
+aged
+VERB / 1
+
+bored
+VERB / 1
+
+universe
+NOUN / 1
+
+skipping
+VERB / 1
+
+chapter
+NOUN / 1
+
+answer
+NOUN / 1
+
+metaphysical
+ADJECTIVE / 1
+
+longer
+ADJECTIVE / 1
+
+shave
+VERB / 1
+
+barn
+NOUN / 1
+
+newspaper
+NOUN / 1
+
+thirty
+CONJUNCTION / 1
+
+perfectionists
+NOUN / 1
+
+polishing
+VERB / 1
+
+reluctant
+ADJECTIVE / 1
+
+complicate
+VERB / 1
+
+lives
+NOUN / 1
+
+lizards
+NOUN / 1
+
+indolent
+ADJECTIVE / 1
+
+blink
+VERB / 1
+
+misfortune
+NOUN / 1
+
+whichever
+DETERMINER / 1
+
+belong
+VERB / 1
+
+demanded
+VERB / 1
+
+antagonistic
+ADJECTIVE / 1
+
+retirement
+NOUN / 1
+
+roaming
+VERB / 1
+
+gardening
+VERB / 1
+
+lying
+VERB / 1
+
+watching
+VERB / 1
+
+clouds
+NOUN / 1
+
+undone
+VERB / 1
+
+damn
+NOUN / 1
+
+busy
+ADJECTIVE / 1
+
+habit
+NOUN / 1
+
+futile
+ADJECTIVE / 1
+
+luminous
+ADJECTIVE / 1
+
+dial
+NOUN / 1
+
+wrist
+NOUN / 1
+
+minutes
+NOUN / 1
+
+distant
+ADJECTIVE / 1
+
+rooster
+NOUN / 1
+
+crowed
+VERB / 1
+
+associate
+NOUN / 1
+
+answered
+VERB / 1
+
+sheet
+NOUN / 1
+
+treacherous
+ADJECTIVE / 1
+
+encroachment
+NOUN / 1
+
+dawn
+NOUN / 1
+
+carpenter's
+NOUN / 1
+
+rotary
+ADJECTIVE / 1
+
+machinery
+NOUN / 1
+
+mills
+NOUN / 1
+
+babbiting
+VERB / 1
+
+doweling
+VERB / 1
+
+whatever
+DETERMINER / 1
+
+huge
+ADJECTIVE / 1
+
+pegboard
+NOUN / 1
+
+lumber
+NOUN / 1
+
+workbench
+NOUN / 1
+
+sandpaper
+NOUN / 1
+
+glue
+NOUN / 1
+
+assorted
+VERB / 1
+
+nails
+NOUN / 1
+
+t
+NOUN / 1
+
+squares
+NOUN / 1
+
+plumb
+NOUN / 1
+
+gadgets
+NOUN / 1
+
+'em
+PRONOUN / 1
+
+ask
+VERB / 1
+
+collection
+NOUN / 1
+
+wagon
+NOUN / 1
+
+jinny
+NOUN / 1
+
+meeting
+NOUN / 1
+
+car
+NOUN / 1
+
+glad
+ADJECTIVE / 1
+
+unload
+VERB / 1
+
+stuff
+NOUN / 1
+
+cellar
+NOUN / 1
+
+barrage
+NOUN / 1
+
+acid
+ADJECTIVE / 1
+
+comments
+NOUN / 1
+
+fuss
+NOUN / 1
+
+buying
+VERB / 1
+
+piled
+VERB / 1
+
+corner
+NOUN / 1
+
+stare
+VERB / 1
+
+blank
+NOUN / 1
+
+hang
+VERB / 1
+
+nightmare
+NOUN / 1
+
+wakeful
+ADJECTIVE / 1
+
+charging
+VERB / 1
+
+sleeping
+VERB / 1
+
+pill
+NOUN / 1
+
+attach
+VERB / 1
+
+paneling
+NOUN / 1
+
+focused
+VERB / 1
+
+holes
+NOUN / 1
+
+electric
+ADJECTIVE / 1
+
+gadget
+NOUN / 1
+
+hopeless
+ADJECTIVE / 1
+
+sturdy
+ADJECTIVE / 1
+
+wobble
+VERB / 1
+
+newborn
+ADJECTIVE / 1
+
+calf
+NOUN / 1
+
+collapse
+VERB / 1
+
+leaned
+VERB / 1
+
+figuring
+NOUN / 1
+
+scrap
+NOUN / 1
+
+kinds
+NOUN / 1
+
+two-by-fours
+NOUN / 1
+
+handled
+VERB / 1
+
+disorderly
+ADJECTIVE / 1
+
+pile
+NOUN / 1
+
+crombie
+NOUN / 1
+
+poked
+VERB / 1
+
+assortment
+NOUN / 1
+
+simpler
+ADJECTIVE / 1
+
+crumb
+NOUN / 1
+
+amazement
+NOUN / 1
+
+attaching
+VERB / 1
+
+worktable
+NOUN / 1
+
+trouble
+NOUN / 1
+
+tied
+VERB / 1
+
+finish
+VERB / 1
+
+porch
+NOUN / 1
+
+handyman-carpenter
+NOUN / 1
+
+carpenters
+NOUN / 1
+
+mother's
+NOUN / 1
+
+hammer
+VERB / 1
+
+twenty-five
+CONJUNCTION / 1
+
+blatz
+NOUN / 1
+
+smithtown
+NOUN / 1
+
+liked
+VERB / 1
+
+drunk
+ADJECTIVE / 1
+
+doubtful
+ADJECTIVE / 1
+
+boon
+NOUN / 1
+
+crombie's
+NOUN / 1
+
+highfield
+NOUN / 1
+
+spite
+PREPOSITION / 1
+
+fast
+ADJECTIVE / 1
+
+lonely
+ADJECTIVE / 1
+
+funny
+ADJECTIVE / 1
+
+cracks
+NOUN / 1
+
+wooden
+ADJECTIVE / 1
+
+blatz's
+NOUN / 1
+
+attached
+VERB / 1
+
+pegboards
+NOUN / 1
+
+standing
+VERB / 1
+
+disclose
+VERB / 1
+
+ignorance
+NOUN / 1
+
+starting
+VERB / 1
+
+told
+VERB / 1
+
+discussion
+NOUN / 1
+
+appeared
+VERB / 1
+
+sticking
+VERB / 1
+
+proceeded
+VERB / 1
+
+stained
+VERB / 1
+
+waxed
+VERB / 1
+
+taste
+NOUN / 1
+
+outlets
+NOUN / 1
+
+fluorescent
+ADJECTIVE / 1
+
+lamps
+NOUN / 1
+
+an'
+CONJUNCTION / 1
+
+guess
+VERB / 1
+
+shipshape
+ADJECTIVE / 1
+
+question
+NOUN / 1
+
+battered
+VERB / 1
+
+carrier
+NOUN / 1
+
+needs
+VERB / 1
+
+voltage
+NOUN / 1
+
+fuse
+NOUN / 1
+
+circuits
+NOUN / 1
+
+'ceptin'
+PREPOSITION / 1
+
+nothin'
+PRONOUN / 1
+
+depressed
+VERB / 1
+
+relieved
+VERB / 1
+
+postponed
+VERB / 1
+
+stairs
+NOUN / 1
+
+usual
+ADJECTIVE / 1
+
+confusion
+NOUN / 1
+
+cooking
+VERB / 1
+
+utensils
+NOUN / 1
+
+unoccupied
+ADJECTIVE / 1
+
+kitchen
+NOUN / 1
+
+contraptions
+NOUN / 1
+
+anxious
+ADJECTIVE / 1
+
+sayin'
+VERB / 1
+
+oh
+OTHER / 1
+
+cried
+VERB / 1
+
+thousand
+CONJUNCTION / 1
+
+doors
+NOUN / 1
+
+broken
+VERB / 1
+
+protested
+VERB / 1
+
+wait
+VERB / 1
+
+plenty
+NOUN / 1
+
+academic
+ADJECTIVE / 1
+
+measurements
+NOUN / 1
+
+shelf
+NOUN / 1
