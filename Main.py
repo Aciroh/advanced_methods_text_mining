@@ -96,71 +96,70 @@ def read_output():
 
 def predict(remaining_files):
   directory = 'brown'
-  # for file_name in remaining_files:
-  file_name = remaining_files[0]
-  source_file_path = os.path.join(os.getcwd(), directory, file_name.split(' ')[0])
-  list_of_words = []
-  list_of_pos = []
-  list_of_evaluation=[]
-  predictor = Predictor()
-  with open(source_file_path) as source_file:
-    word_lines = source_file.readlines()
-    for word_line in word_lines:
-      if any(char.isalpha() or char.isdigit() for char in word_line):
-        for word_pos in word_line.split(' '):
-          if len(word_pos.split('/'))==2:
-            try:
-              word=Word(word_pos.split('/')[0],word_pos.split('/')[1])
-            except:
-              continue
-            else:
-              pos = word.pos
-              if pos not in list_of_pos:
-                  list_of_pos.append(word.pos)
-              if word not in list_of_words:
-                list_of_words.append(word)
-    for item in list_of_pos:
-      if item != 'None' and item is not None:
-        list_of_evaluation.append(Evaluation(item))
-    for word in list_of_words:
-      print("\nPredictions for: {}".format(word.text))
-      most_frequent_prediction = predictor.predictMostFrequent(word.text).pos
-      print("Most Frequent: {}".format(most_frequent_prediction))
-      for evaluation in list_of_evaluation:
-        evaluation.checkEvaluation(most_frequent_prediction, word.pos)
+  for file_name in remaining_files:
+    source_file_path = os.path.join(os.getcwd(), directory, file_name.split(' ')[0])
+    list_of_words = []
+    list_of_pos = []
+    list_of_evaluation=[]
+    predictor = Predictor()
+    with open(source_file_path) as source_file:
+      word_lines = source_file.readlines()
+      for word_line in word_lines:
+        if any(char.isalpha() or char.isdigit() for char in word_line):
+          for word_pos in word_line.split(' '):
+            if len(word_pos.split('/'))==2:
+              try:
+                word=Word(word_pos.split('/')[0],word_pos.split('/')[1])
+              except:
+                continue
+              else:
+                pos = word.pos
+                if pos not in list_of_pos:
+                    list_of_pos.append(word.pos)
+                if word not in list_of_words:
+                  list_of_words.append(word)
+      for item in list_of_pos:
+        if item != 'None' and item is not None:
+          list_of_evaluation.append(Evaluation(item))
+      for word in list_of_words:
+        print("\nPredictions for: {}".format(word.text))
+        most_frequent_prediction = predictor.predictMostFrequent(word.text).pos
+        print("Most Frequent: {}".format(most_frequent_prediction))
+        for evaluation in list_of_evaluation:
+          evaluation.checkEvaluation(most_frequent_prediction, word.pos)
 
-    with open('Outputs/Predictions/most_frequent_results.txt', 'w') as f:
+      with open('Outputs/Predictions/most_frequent_results.txt', 'w') as f:
+        for evaluation in list_of_evaluation:
+          f.write("\n{}\nAccuracy: {}\nPrecision: {}\nRecall: {}\nSpecificity: {}\n".format(
+            evaluation.pos,
+            evaluation.getAccuracy(),
+            evaluation.getPrecision(),
+            evaluation.getRecall(),
+            evaluation.getSpecificity()
+            ))
       for evaluation in list_of_evaluation:
-        f.write("\n{}\nAccuracy: {}\nPrecision: {}\nRecall: {}\nSpecificity: {}\n".format(
-          evaluation.pos,
-          evaluation.getAccuracy(),
-          evaluation.getPrecision(),
-          evaluation.getRecall(),
-          evaluation.getSpecificity()
-          ))
-    for evaluation in list_of_evaluation:
-      evaluation.reset()
-    for word in list_of_words:
-      print("\nPredictions for: {}".format(word.text))
-      global_probability_prediction = predictor.predictGlobalProbability(word.text).pos
-      print("Most Frequent: {}".format(global_probability_prediction))
-      for evaluation in list_of_evaluation:
-        evaluation.checkEvaluation(global_probability_prediction, word.pos)
-    with open('Outputs/Predictions/global_probability_results.txt', 'w') as f:
-      for evaluation in list_of_evaluation:
-        f.write("\n{}\nAccuracy: {}\nPrecision: {}\nRecall: {}\nSpecificity: {}\n".format(
-          evaluation.pos,
-          evaluation.getAccuracy(),
-          evaluation.getPrecision(),
-          evaluation.getRecall(),
-          evaluation.getSpecificity()
-          ))
+        evaluation.reset()
+      for word in list_of_words:
+        print("\nPredictions for: {}".format(word.text))
+        global_probability_prediction = predictor.predictGlobalProbability(word.text).pos
+        print("Most Frequent: {}".format(global_probability_prediction))
+        for evaluation in list_of_evaluation:
+          evaluation.checkEvaluation(global_probability_prediction, word.pos)
+      with open('Outputs/Predictions/global_probability_results.txt', 'w') as f:
+        for evaluation in list_of_evaluation:
+          f.write("\n{}\nAccuracy: {}\nPrecision: {}\nRecall: {}\nSpecificity: {}\n".format(
+            evaluation.pos,
+            evaluation.getAccuracy(),
+            evaluation.getPrecision(),
+            evaluation.getRecall(),
+            evaluation.getSpecificity()
+            ))
 
 
         
 
 if __name__=='__main__':
-  remaining_files = read_files(5)
+  remaining_files = read_files(70)
   read_output()
   print("Remaining number of files: {}".format(remaining_files))
   predict(remaining_files)
